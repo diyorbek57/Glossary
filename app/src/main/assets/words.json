@@ -1,0 +1,3146 @@
+[
+  {
+    "id": "4596f338-2416-4b4f-8952-0cb8646d09d3",
+    "theme": "Meine worter im kurs",
+    "word_de": "ansehen",
+    "word_uz": "koʻrinish"
+  },
+  {
+    "id": "20472a93-9e74-4461-b648-627d23b9339e",
+    "theme": "Meine worter im kurs",
+    "word_de": "das Bild",
+    "word_uz": "rasm"
+  },
+  {
+    "id": "f54a79dc-01ed-43b8-9cc2-dcf51cf3993e",
+    "theme": "Meine worter im kurs",
+    "word_de": "hören",
+    "word_uz": "eshitish"
+  },
+  {
+    "id": "e9c88901-427f-4202-8ea2-99b837f5da1b",
+    "theme": "Meine worter im kurs",
+    "word_de": "noch einmal",
+    "word_uz": "yana"
+  },
+  {
+    "id": "1f7e8b91-38ca-421d-902f-4e438d544654",
+    "theme": "Meine worter im kurs",
+    "word_de": "ankreuzen",
+    "word_uz": "xosh"
+  },
+  {
+    "id": "f4f76173-4ec0-4b91-847a-512d723198e5",
+    "theme": "Meine worter im kurs",
+    "word_de": "zuordnen",
+    "word_uz": "tayinlash"
+  },
+  {
+    "id": "38f26195-578c-4bf3-874b-6e0d9adc291d",
+    "theme": "Meine worter im kurs",
+    "word_de": "ergänzen",
+    "word_uz": "qoʻshish"
+  },
+  {
+    "id": "f34e37f9-752a-47ed-a6b9-c49aff3b50c7",
+    "theme": "Meine worter im kurs",
+    "word_de": "machen",
+    "word_uz": "qilish"
+  },
+  {
+    "id": "a46814df-b69c-4074-9fc0-36bb2c444b6c",
+    "theme": "Meine worter im kurs",
+    "word_de": "der Kurs",
+    "word_uz": "kurs"
+  },
+  {
+    "id": "124e2ddb-01f2-42c5-9292-37d4edb69266",
+    "theme": "Meine worter im kurs",
+    "word_de": "sprechen",
+    "word_uz": "gapirish"
+  },
+  {
+    "id": "935747d4-afc6-4f34-bc2b-daa3ff3c0a77",
+    "theme": "Meine worter im kurs",
+    "word_de": "lesen",
+    "word_uz": "oʻqish"
+  },
+  {
+    "id": "294dbe66-e236-40b5-a6a5-02d07304dd1c",
+    "theme": "Meine worter im kurs",
+    "word_de": "das Gespräch",
+    "word_uz": "suxbat"
+  },
+  {
+    "id": "c4757902-4a85-4b72-8fa1-5c4283fa86f4",
+    "theme": "Meine worter im kurs",
+    "word_de": "spielen",
+    "word_uz": "oʻynash"
+  },
+  {
+    "id": "62f75df7-cd75-4c62-a7e9-d504e83cde04",
+    "theme": "Meine worter im kurs",
+    "word_de": "suchen",
+    "word_uz": "izlash"
+  },
+  {
+    "id": "491015b4-b7b8-46b0-8764-4d5536b35929",
+    "theme": "Meine worter im kurs",
+    "word_de": "zeigen",
+    "word_uz": "koʻrsatish"
+  },
+  {
+    "id": "5c1a10ac-52b7-4e0a-865d-489af59ffa67",
+    "theme": "Meine worter im kurs",
+    "word_de": "markieren",
+    "word_uz": "bergilash"
+  },
+  {
+    "id": "3d8a26c1-5393-410d-8765-d4a0eb26ae62",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Frage",
+    "word_uz": "savol"
+  },
+  {
+    "id": "89a34cd9-0b27-48c7-a21c-1a3a32e3d4c4",
+    "theme": "Meine worter im kurs",
+    "word_de": "nachsprechen",
+    "word_uz": "takrorlash"
+  },
+  {
+    "id": "b0e3b74f-4ca6-4c33-8f7b-d6c159392b25",
+    "theme": "Meine worter im kurs",
+    "word_de": "raten",
+    "word_uz": "taxmin"
+  },
+  {
+    "id": "0803d52c-65bb-494c-80ba-618fa6eec570",
+    "theme": "Meine worter im kurs",
+    "word_de": "das Wort",
+    "word_uz": "soʻz"
+  },
+  {
+    "id": "401013c2-9303-4c79-898a-32888fe1ab52",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Lektion",
+    "word_uz": "dars"
+  },
+  {
+    "id": "da8d56a4-cb4f-4fbc-8e5c-2d987473e355",
+    "theme": "Meine worter im kurs",
+    "word_de": "meinen",
+    "word_uz": "anglatadi"
+  },
+  {
+    "id": "19b3ed3f-adae-4154-8ff1-5ed1a56023d6",
+    "theme": "Meine worter im kurs",
+    "word_de": "sagen",
+    "word_uz": "demoq"
+  },
+  {
+    "id": "c0890c03-acd9-4ebc-970f-8f0ff31e1728",
+    "theme": "Meine worter im kurs",
+    "word_de": "notieren",
+    "word_uz": "eslatma"
+  },
+  {
+    "id": "b18b83e8-b275-41f7-8405-63c94fee7218",
+    "theme": "Meine worter im kurs",
+    "word_de": "vergleichen",
+    "word_uz": "solishtiring"
+  },
+  {
+    "id": "b0fd6086-30d4-4327-9484-53196502e59e",
+    "theme": "Meine worter im kurs",
+    "word_de": "schreiben",
+    "word_uz": "yozish"
+  },
+  {
+    "id": "e364cfd4-e72f-4ecf-b648-b2e21942de0b",
+    "theme": "Meine worter im kurs",
+    "word_de": "variieren",
+    "word_uz": "farqlanadi"
+  },
+  {
+    "id": "7b934505-bd1c-4fd5-8365-6094376e7355",
+    "theme": "Meine worter im kurs",
+    "word_de": "erzählen",
+    "word_uz": "ayt"
+  },
+  {
+    "id": "da6b47b6-3b21-4c98-a0c5-f9779d2d7244",
+    "theme": "Meine worter im kurs",
+    "word_de": "arbeiten",
+    "word_uz": "ish"
+  },
+  {
+    "id": "f8fdbf30-76b4-4cae-9ac8-677dd55b20d5",
+    "theme": "Meine worter im kurs",
+    "word_de": "zeichnen",
+    "word_uz": "chizish"
+  },
+  {
+    "id": "cec57f10-f051-43d4-8d36-d9a3e0413d9d",
+    "theme": "Meine worter im kurs",
+    "word_de": "verbinden",
+    "word_uz": "ulanmoq"
+  },
+  {
+    "id": "35b8af63-8365-4b1e-8dd1-4822e93fe0f7",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Antwort",
+    "word_uz": "javob"
+  },
+  {
+    "id": "d7ad5335-70a7-4ed4-a96e-e431e393802f",
+    "theme": "Meine worter im kurs",
+    "word_de": "ich ",
+    "word_uz": "men"
+  },
+  {
+    "id": "7ff681ca-8edb-4d9c-8585-b6cca97461cf",
+    "theme": "Meine worter im kurs",
+    "word_de": "heißen",
+    "word_uz": "chaqirish"
+  },
+  {
+    "id": "7b3c0590-24c3-483f-8448-e583955ce948",
+    "theme": "Meine worter im kurs",
+    "word_de": "der Name",
+    "word_uz": "ism"
+  },
+  {
+    "id": "929a84b2-a3a4-412e-8b8a-8d814e3623f2",
+    "theme": "Meine worter im kurs",
+    "word_de": "kommen",
+    "word_uz": "kelmoq"
+  },
+  {
+    "id": "6cffbe62-f9fa-42df-9bd8-af712e1b7c5b",
+    "theme": "Meine worter im kurs",
+    "word_de": "Deutschland",
+    "word_uz": "germaniya"
+  },
+  {
+    "id": "f372fec2-dc50-4002-ab8b-47192692d40f",
+    "theme": "Meine worter im kurs",
+    "word_de": "sprechen",
+    "word_uz": "gapirish"
+  },
+  {
+    "id": "ed3b89a5-ae56-4d21-a565-73e0cd7fff1b",
+    "theme": "Meine worter im kurs",
+    "word_de": "(das) Deutsch",
+    "word_uz": "nemis"
+  },
+  {
+    "id": "290ccae5-3712-463c-892f-b0d451acf5bc",
+    "theme": "Meine worter im kurs",
+    "word_de": "und",
+    "word_uz": "va"
+  },
+  {
+    "id": "676728d5-45fa-4997-aab7-acc841e81617",
+    "theme": "Meine worter im kurs",
+    "word_de": "ein bisschen",
+    "word_uz": "ozgina"
+  },
+  {
+    "id": "1c913593-7b68-4893-902c-6489d994859a",
+    "theme": "Meine worter im kurs",
+    "word_de": "Guten Tag",
+    "word_uz": "hayirli"
+  },
+  {
+    "id": "bccbf62d-f9f0-4791-b2b2-3cb381eb674f",
+    "theme": "Meine worter im kurs",
+    "word_de": "hallo",
+    "word_uz": "salom"
+  },
+  {
+    "id": "cda3a204-554c-4ec9-b25e-f04ad76cc7f0",
+    "theme": "Meine worter im kurs",
+    "word_de": "Auf W iedersehen",
+    "word_uz": "koʻrishguncha"
+  },
+  {
+    "id": "89f554b4-db75-4ac3-9e30-3ed1452445ba",
+    "theme": "Meine worter im kurs",
+    "word_de": "tschüs",
+    "word_uz": "hayr"
+  },
+  {
+    "id": "8e44f5df-868c-44f5-9f46-34ea15947a10",
+    "theme": "Meine worter im kurs",
+    "word_de": "der Herr",
+    "word_uz": "janob"
+  },
+  {
+    "id": "eccfa72b-d957-4bf9-9503-31ee569d6f7f",
+    "theme": "Meine worter im kurs",
+    "word_de": "das Kind",
+    "word_uz": "bola"
+  },
+  {
+    "id": "9acb03de-3d21-4b58-bf8b-358bb452dd67",
+    "theme": "Meine worter im kurs",
+    "word_de": "Guten Abend",
+    "word_uz": "hayrli"
+  },
+  {
+    "id": "fa00dff4-c8bf-4f5f-9b32-bda2c15e4254",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Dame",
+    "word_uz": "xonim"
+  },
+  {
+    "id": "616bae45-b71b-4a53-8453-3820bb4e2628",
+    "theme": "Meine worter im kurs",
+    "word_de": "willkommen",
+    "word_uz": "xush"
+  },
+  {
+    "id": "4ca283a1-3f6e-4942-85a1-33dbca7f5490",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Musik (Sg.)",
+    "word_uz": "qoʻshiq"
+  },
+  {
+    "id": "72989b80-7d0e-4dd1-8d68-c50ae4d5a8ce",
+    "theme": "Meine worter im kurs",
+    "word_de": "international",
+    "word_uz": "xalqaroq"
+  },
+  {
+    "id": "3ad654a9-4763-40d6-acd6-7bdf266480e4",
+    "theme": "Meine worter im kurs",
+    "word_de": "Guten Morgen",
+    "word_uz": "hayrli"
+  },
+  {
+    "id": "3e97bf48-4512-441a-9bf5-56339543e395",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Frau",
+    "word_uz": "ayol"
+  },
+  {
+    "id": "c4cf5cf6-ef99-4ebe-9c96-1d4219982449",
+    "theme": "Meine worter im kurs",
+    "word_de": "danke",
+    "word_uz": "raxmat"
+  },
+  {
+    "id": "143ec634-a133-4b94-974e-ff6e9e82acde",
+    "theme": "Meine worter im kurs",
+    "word_de": "Gute Nacht",
+    "word_uz": "hayrli"
+  },
+  {
+    "id": "ec123399-57e7-416c-8b1d-8bfd78598dba",
+    "theme": "Meine worter im kurs",
+    "word_de": "der Papa",
+    "word_uz": "ota"
+  },
+  {
+    "id": "3139fa17-ecc0-4376-8a67-d4ba5a36c4dc",
+    "theme": "Meine worter im kurs",
+    "word_de": "sein",
+    "word_uz": "boʻl"
+  },
+  {
+    "id": "27b663ad-1b88-4b00-a3a4-ef62e527796d",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Entschuldigung",
+    "word_uz": "kechirasiz"
+  },
+  {
+    "id": "e9a69168-bc9a-40a6-bc08-e4ee2f7af785",
+    "theme": "Meine worter im kurs",
+    "word_de": "wie",
+    "word_uz": "qanaqa"
+  },
+  {
+    "id": "4f2b87f0-a754-401a-8720-7a4786f80c1f",
+    "theme": "Meine worter im kurs",
+    "word_de": "Sie",
+    "word_uz": "u"
+  },
+  {
+    "id": "abacda96-df7d-44f8-9bd6-aa2d2eebfa82",
+    "theme": "Meine worter im kurs",
+    "word_de": "wer",
+    "word_uz": "kim"
+  },
+  {
+    "id": "f55df47d-70ab-4c87-b6c2-963675b4c8b2",
+    "theme": "Meine worter im kurs",
+    "word_de": "ja",
+    "word_uz": "ha"
+  },
+  {
+    "id": "3972195c-111b-4b99-9331-0fc0df667239",
+    "theme": "Meine worter im kurs",
+    "word_de": "nein",
+    "word_uz": "yoq"
+  },
+  {
+    "id": "57a79538-9b6f-4a47-a77c-5f0a4b275c71",
+    "theme": "Meine worter im kurs",
+    "word_de": "woher",
+    "word_uz": "qayer"
+  },
+  {
+    "id": "e89fe910-121f-4092-8aa7-96f1427dbb74",
+    "theme": "Meine worter im kurs",
+    "word_de": "aus",
+    "word_uz": "tashqarida"
+  },
+  {
+    "id": "42094def-095e-44b7-a76b-2922da9e0f4e",
+    "theme": "Meine worter im kurs",
+    "word_de": "du",
+    "word_uz": "sen"
+  },
+  {
+    "id": "2481a115-4628-466b-93e4-91424217f7f0",
+    "theme": "Meine worter im kurs",
+    "word_de": "Österreich",
+    "word_uz": "Avstraliya"
+  },
+  {
+    "id": "9d9d2088-49bd-4168-b711-7132b04c6885",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Schweiz",
+    "word_uz": "shvetsariya"
+  },
+  {
+    "id": "73efa54a-dc11-4d4c-9e51-719ec7061896",
+    "theme": "Meine worter im kurs",
+    "word_de": "aha",
+    "word_uz": "aka"
+  },
+  {
+    "id": "3f77f9f2-bc9b-4d20-bf49-65325b7d6aeb",
+    "theme": "Meine worter im kurs",
+    "word_de": "toll",
+    "word_uz": "ajoyib"
+  },
+  {
+    "id": "0cd4901b-cfdc-4d7d-80b0-d64947ad12df",
+    "theme": "Meine worter im kurs",
+    "word_de": "interessant",
+    "word_uz": "qiziqarli"
+  },
+  {
+    "id": "fe0547ae-c3a6-4146-99d8-7eb3d0de3390",
+    "theme": "Meine worter im kurs",
+    "word_de": "was",
+    "word_uz": "nima"
+  },
+  {
+    "id": "2fd0dc03-4fc2-4f56-bd4c-7df981cb6833",
+    "theme": "Meine worter im kurs",
+    "word_de": "auch",
+    "word_uz": "shuningdek"
+  },
+  {
+    "id": "6fc42f53-121e-4a18-bf61-428fad475599",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Sprache",
+    "word_uz": "til"
+  },
+  {
+    "id": "e0264b1c-3088-4797-917c-480a3df8d678",
+    "theme": "Meine worter im kurs",
+    "word_de": "der Buch",
+    "word_uz": "imlo"
+  },
+  {
+    "id": "938b31b4-47d4-44d6-95cf-22fc91437860",
+    "theme": "Meine worter im kurs",
+    "word_de": "das Alphabet (Sg.)",
+    "word_uz": "alifbo"
+  },
+  {
+    "id": "7206c513-243d-48e1-aed4-409aab97f921",
+    "theme": "Meine worter im kurs",
+    "word_de": "Wie bitte",
+    "word_uz": "kechirasiz"
+  },
+  {
+    "id": "82032ac2-01fc-4349-9f95-f590284765d5",
+    "theme": "Meine worter im kurs",
+    "word_de": "buchstabieren",
+    "word_uz": "afsun"
+  },
+  {
+    "id": "52f6cd54-0475-43be-a880-89bf44d8cfe9",
+    "theme": "Meine worter im kurs",
+    "word_de": "Bitte",
+    "word_uz": "iltimos"
+  },
+  {
+    "id": "1d12f4f4-420f-41ff-816f-f2625fedb2da",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Firma, Firmen",
+    "word_uz": "kompaniya"
+  },
+  {
+    "id": "2e18ef94-9c54-4d7a-b1c7-4c30b701147a",
+    "theme": "Meine worter im kurs",
+    "word_de": "Vielen Dank",
+    "word_uz": "koʻp"
+  },
+  {
+    "id": "980d00cd-0ce1-4cfb-a336-a60cd4d5526d",
+    "theme": "Meine worter im kurs",
+    "word_de": "Auf Wiederhören",
+    "word_uz": "xayr"
+  },
+  {
+    "id": "3bd0026f-910c-43c6-905d-429c0158349f",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Adresse",
+    "word_uz": "manzil"
+  },
+  {
+    "id": "84c5a9f9-d88c-455e-a452-2a21e5389031",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Visitenkarte",
+    "word_uz": "biznes"
+  },
+  {
+    "id": "c75c1f52-3ec9-42d5-a089-19fe653cbfc3",
+    "theme": "Meine worter im kurs",
+    "word_de": "der Vorname",
+    "word_uz": "ism"
+  },
+  {
+    "id": "a8040f55-ea5c-422a-912b-42145bc966ae",
+    "theme": "Meine worter im kurs",
+    "word_de": "der Familienname",
+    "word_uz": "familya"
+  },
+  {
+    "id": "de48b323-8b55-4529-864f-5f6793dce833",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Straße",
+    "word_uz": "koʻcha"
+  },
+  {
+    "id": "74a04740-82be-48a8-98f4-9482fd1e5cd3",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Stadt",
+    "word_uz": "shahar"
+  },
+  {
+    "id": "4f9fecfa-fdeb-42e4-83ec-cd3c7b227ffa",
+    "theme": "Meine worter im kurs",
+    "word_de": "das Land",
+    "word_uz": "davlat"
+  },
+  {
+    "id": "173d45a4-d4cf-425d-a2db-7f4fb65acd17",
+    "theme": "Meine worter im kurs",
+    "word_de": "die E-Mail",
+    "word_uz": "email"
+  },
+  {
+    "id": "07bcdf8e-9cc8-4d03-badc-36cb4d2c9641",
+    "theme": "Meine worter im kurs",
+    "word_de": "das Telefon",
+    "word_uz": "telefon"
+  },
+  {
+    "id": "76efca90-7464-4d64-ba43-1f539ffcb126",
+    "theme": "Meine worter im kurs",
+    "word_de": "das Formular",
+    "word_uz": "shakl"
+  },
+  {
+    "id": "c91479bf-a2ca-4715-a9b5-a3134cfb0368",
+    "theme": "Meine worter im kurs",
+    "word_de": "der Kurs",
+    "word_uz": "kurs"
+  },
+  {
+    "id": "fea61054-ed3e-48ea-9eaa-6b54b71b06d3",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Fremdsprache",
+    "word_uz": "xorijiy"
+  },
+  {
+    "id": "a9a7bdf6-2d83-4c72-b8cb-23c0c8d9ea2c",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Anmeldung",
+    "word_uz": "roʻyxatdan"
+  },
+  {
+    "id": "5e0f6fe1-c053-46c1-9cbf-4f111d6ff788",
+    "theme": "Meine worter im kurs",
+    "word_de": "die Postleitzahl",
+    "word_uz": "poʻchta ko'di"
+  },
+  {
+    "id": "a19f52e5-7a6f-44ab-a20b-da54ccc2d780",
+    "theme": "Meine familie",
+    "word_de": "lernen",
+    "word_uz": "oʻqimoq"
+  },
+  {
+    "id": "145e921e-ccb3-4826-bb6f-aa4703f4e781",
+    "theme": "Meine familie",
+    "word_de": "der Park",
+    "word_uz": "park"
+  },
+  {
+    "id": "87334e1f-1fcf-4bd5-b74f-cc05bcffe5f0",
+    "theme": "Meine familie",
+    "word_de": "die Pause",
+    "word_uz": "tanaffus"
+  },
+  {
+    "id": "287a0d42-09f2-49c3-ac7b-ba35b341f301",
+    "theme": "Meine familie",
+    "word_de": "die Fam ilie",
+    "word_uz": "oila"
+  },
+  {
+    "id": "1b778d86-da6f-4297-9f2e-dee82b418f97",
+    "theme": "Meine familie",
+    "word_de": "der Vater",
+    "word_uz": "ota"
+  },
+  {
+    "id": "a2cd6a25-90d0-4389-8250-79a12e252b66",
+    "theme": "Meine familie",
+    "word_de": "die Großeltern (PI.)",
+    "word_uz": "bobo"
+  },
+  {
+    "id": "909d69c9-3cf6-45a7-b8c6-4f1c36e7c561",
+    "theme": "Meine familie",
+    "word_de": "die Mutter",
+    "word_uz": "ona"
+  },
+  {
+    "id": "fc564126-3b1d-415c-a119-ad52328b3ad1",
+    "theme": "Meine familie",
+    "word_de": "die Eltern (PI.)",
+    "word_uz": "ota"
+  },
+  {
+    "id": "48ae572a-0c1c-476a-ac62-20c9d66e661c",
+    "theme": "Meine familie",
+    "word_de": "der Bruder",
+    "word_uz": "aka"
+  },
+  {
+    "id": "d59a1c35-0a39-4ffc-9e55-2d7a1febaae2",
+    "theme": "Meine familie",
+    "word_de": "die Geschwister (PI)",
+    "word_uz": "opa"
+  },
+  {
+    "id": "86933cba-8709-44a0-9655-62bac0879308",
+    "theme": "Meine familie",
+    "word_de": "das Jahr",
+    "word_uz": "yil"
+  },
+  {
+    "id": "0561e858-8d37-4489-912b-db5ca3b24ddb",
+    "theme": "Meine familie",
+    "word_de": "leben",
+    "word_uz": "yashamoq"
+  },
+  {
+    "id": "9552b283-9c6d-4c2a-8ac0-f1bbe3354ba8",
+    "theme": "Meine familie",
+    "word_de": "in",
+    "word_uz": "ichida"
+  },
+  {
+    "id": "f19febc9-e8cc-4842-9088-aa40a9d97154",
+    "theme": "Meine familie",
+    "word_de": "gut",
+    "word_uz": "yaxshi"
+  },
+  {
+    "id": "84a4d9c0-d67e-48bc-b75d-fd25d41751d9",
+    "theme": "Meine familie",
+    "word_de": "super",
+    "word_uz": "super"
+  },
+  {
+    "id": "9dea84c7-8af5-44a1-9d8d-4e500db076df",
+    "theme": "Meine familie",
+    "word_de": "na ja",
+    "word_uz": "ha"
+  },
+  {
+    "id": "f72fd56f-e676-4ae6-b1e3-ad5bdf3c74f0",
+    "theme": "Meine familie",
+    "word_de": "ach",
+    "word_uz": "oh"
+  },
+  {
+    "id": "dcad4dc4-4dcf-445b-a916-0c8d17617f31",
+    "theme": "Meine familie",
+    "word_de": "so",
+    "word_uz": "shunday"
+  },
+  {
+    "id": "7fd68c8f-d237-4fd5-9eb7-50660113e9de",
+    "theme": "Meine familie",
+    "word_de": "sehr",
+    "word_uz": "juda"
+  },
+  {
+    "id": "99f2dfd7-32c6-4708-8531-7cb4067248e9",
+    "theme": "Meine familie",
+    "word_de": "der Enkel",
+    "word_uz": "nabira"
+  },
+  {
+    "id": "ce37db0e-988f-482c-b874-0ca59b24b98b",
+    "theme": "Meine familie",
+    "word_de": "die Tochter",
+    "word_uz": "qiz"
+  },
+  {
+    "id": "2591dea8-5ced-4290-b892-eedc4a050fef",
+    "theme": "Meine familie",
+    "word_de": "der Sohn",
+    "word_uz": "oʻgʻil"
+  },
+  {
+    "id": "a88e2f37-664a-4107-b448-e86aab55f6af",
+    "theme": "Meine familie",
+    "word_de": "die Schwester",
+    "word_uz": "opa"
+  },
+  {
+    "id": "4f6841eb-f930-4865-9ade-b4b3f26d3d46",
+    "theme": "Meine familie",
+    "word_de": "die Oma",
+    "word_uz": "buvi"
+  },
+  {
+    "id": "10d4acbc-b77a-4fad-a9e7-318f55ce2590",
+    "theme": "Meine familie",
+    "word_de": "der Mann",
+    "word_uz": "odam"
+  },
+  {
+    "id": "6f07fb70-3711-4eaa-9761-8837b4d9f915",
+    "theme": "Meine familie",
+    "word_de": "der Opa",
+    "word_uz": "bobo"
+  },
+  {
+    "id": "c587ffca-0fd8-43cc-9d75-3ed90f6f62ad",
+    "theme": "Meine familie",
+    "word_de": "dein",
+    "word_uz": "sizning"
+  },
+  {
+    "id": "5f9802eb-1a0e-4e28-8d6f-3e1c455a505a",
+    "theme": "Meine familie",
+    "word_de": "mein",
+    "word_uz": "mening"
+  },
+  {
+    "id": "01d0d3c7-732e-476f-a96e-16407f389e49",
+    "theme": "Meine familie",
+    "word_de": "Ihr",
+    "word_uz": "ular"
+  },
+  {
+    "id": "ee4afd23-8784-4ced-9d87-8ca0f61f6e21",
+    "theme": "Meine familie",
+    "word_de": "der Ehemann",
+    "word_uz": "er"
+  },
+  {
+    "id": "e0964053-cd5d-4cc9-8cdd-367ee96263d6",
+    "theme": "Meine familie",
+    "word_de": "falsch",
+    "word_uz": "notoʻgʻri"
+  },
+  {
+    "id": "4cc749ac-34a4-4c21-9051-3754ac6b0139",
+    "theme": "Meine familie",
+    "word_de": "sie (Singular)",
+    "word_uz": "u"
+  },
+  {
+    "id": "c400ef6c-4584-4c7e-a04d-64a9700bb3ef",
+    "theme": "Meine familie",
+    "word_de": "zusammen",
+    "word_uz": "birgalikda"
+  },
+  {
+    "id": "900d2b6d-72ef-4461-8fb2-1d72fc985d13",
+    "theme": "Meine familie",
+    "word_de": "sie (Plural)",
+    "word_uz": "ular"
+  },
+  {
+    "id": "cc12c04d-d409-467c-b91d-435c86966e57",
+    "theme": "Meine familie",
+    "word_de": "geschieden",
+    "word_uz": "ajrashmoq"
+  },
+  {
+    "id": "ca81b11f-af67-4bb4-8927-3276fb7bf3da",
+    "theme": "Meine familie",
+    "word_de": "er",
+    "word_uz": "u"
+  },
+  {
+    "id": "5758f960-2191-400f-b9f1-d83e6326cf13",
+    "theme": "Meine familie",
+    "word_de": "wohnen",
+    "word_uz": "yashamoq"
+  },
+  {
+    "id": "ae976e78-afae-47ab-b420-64b2ab3fbadc",
+    "theme": "Meine familie",
+    "word_de": "jetzt",
+    "word_uz": "hozir"
+  },
+  {
+    "id": "fdbe9752-edaa-4d98-92ad-662ce7c73b46",
+    "theme": "Meine familie",
+    "word_de": "ihr",
+    "word_uz": "ular"
+  },
+  {
+    "id": "2da28fc9-0a2a-4dcc-93f5-83256d702bdd",
+    "theme": "Meine familie",
+    "word_de": "wir",
+    "word_uz": "biz"
+  },
+  {
+    "id": "44060194-6f33-4bf7-9424-53787e4397dc",
+    "theme": "Meine familie",
+    "word_de": "die Zahl",
+    "word_uz": "sonlar"
+  },
+  {
+    "id": "15de4e30-7552-467d-98f5-b35e4999ef73",
+    "theme": "Meine familie",
+    "word_de": "wo",
+    "word_uz": "qayer"
+  },
+  {
+    "id": "06cbafdf-da31-48f0-bf57-3114083c2ff1",
+    "theme": "Meine familie",
+    "word_de": "geboren",
+    "word_uz": "tugʻilgan"
+  },
+  {
+    "id": "a52a7904-1b0f-4a66-9c7e-4e8caafdcc80",
+    "theme": "Meine familie",
+    "word_de": "die Nummer",
+    "word_uz": "nomer"
+  },
+  {
+    "id": "fc280ae9-25b8-4b7a-a324-b507c3276810",
+    "theme": "Meine familie",
+    "word_de": "verheiratet",
+    "word_uz": "turmush"
+  },
+  {
+    "id": "8f07b5c3-fa46-4ce7-a25c-415566dc887b",
+    "theme": "Meine familie",
+    "word_de": "haben",
+    "word_uz": "bor"
+  },
+  {
+    "id": "c2ec6896-ebce-4ace-9e45-a621e1c61ee7",
+    "theme": "Meine familie",
+    "word_de": "der Geburtsort",
+    "word_uz": "tugʻilgan"
+  },
+  {
+    "id": "6beba5b3-cc66-4db5-9df3-02e89020d71d",
+    "theme": "Meine familie",
+    "word_de": "der Wohnort",
+    "word_uz": "yashash"
+  },
+  {
+    "id": "290169a0-6e13-4e27-91f0-46b734c34351",
+    "theme": "Meine familie",
+    "word_de": "der Fam ilienstand",
+    "word_uz": "oilaviy"
+  },
+  {
+    "id": "76b2d36d-4da0-4c76-bc2f-be3d5a3a4e2a",
+    "theme": "Meine familie",
+    "word_de": "ledig",
+    "word_uz": "boʻydoq"
+  },
+  {
+    "id": "8a7397f4-e3ae-4025-9c70-1002e189913b",
+    "theme": "Meine familie",
+    "word_de": "verwitwet",
+    "word_uz": "bevaqolgan"
+  },
+  {
+    "id": "8f6336d8-66a7-471b-9ec4-bdc845534984",
+    "theme": "Meine familie",
+    "word_de": "das Alter",
+    "word_uz": "yoshi"
+  },
+  {
+    "id": "99806606-6b94-4bc4-84a9-374173fe2646",
+    "theme": "Meine familie",
+    "word_de": "der Norden (Sg.)",
+    "word_uz": "shimol"
+  },
+  {
+    "id": "1cc10e2c-6cb6-4203-93a6-2f9c86a589e4",
+    "theme": "Meine familie",
+    "word_de": "der Osten (Sg.)",
+    "word_uz": "sharq"
+  },
+  {
+    "id": "a53cebe9-9b91-435a-a7c5-1ae6a86189a6",
+    "theme": "Meine familie",
+    "word_de": "der Süden (Sg.)",
+    "word_uz": "janub"
+  },
+  {
+    "id": "6b654856-4abd-4a6a-81f6-f9d96cf70531",
+    "theme": "Meine familie",
+    "word_de": "der Westen (Sg.)",
+    "word_uz": "gʻarb"
+  },
+  {
+    "id": "67dc74e9-3da7-437b-836b-7676e6bb826f",
+    "theme": "Meine familie",
+    "word_de": "die Hauptstadt",
+    "word_uz": "poytaxt"
+  },
+  {
+    "id": "04c28f72-1484-4b86-85d3-de0269bf66c2",
+    "theme": "Meine familie",
+    "word_de": "Süd",
+    "word_uz": "janubiy"
+  },
+  {
+    "id": "583fd5fe-c28e-4001-b19c-7b2959ced3a2",
+    "theme": "Meine familie",
+    "word_de": "Nord",
+    "word_uz": "shimoliy"
+  },
+  {
+    "id": "451f6c75-2db3-4ee2-8b19-8c640f3d1242",
+    "theme": "Meine familie",
+    "word_de": "der Lehrer",
+    "word_uz": "oʻqituvchi"
+  },
+  {
+    "id": "ba87fa2b-0fde-4395-a7d3-cdba0d9e54b4",
+    "theme": "Meine familie",
+    "word_de": "die Lehrerin",
+    "word_uz": "oʻqituvchi"
+  },
+  {
+    "id": "7895e337-d1ae-4256-961d-077938634e85",
+    "theme": "Meine familie",
+    "word_de": "der/* die Deutsche",
+    "word_uz": "nemis"
+  },
+  {
+    "id": "df849d3e-ec4f-442b-a886-fbb65c781476",
+    "theme": "Einkaufen",
+    "word_de": "die Banane",
+    "word_uz": "banan"
+  },
+  {
+    "id": "eb2b527e-a839-4bab-ba9a-1d2c99019b05",
+    "theme": "Einkaufen",
+    "word_de": "die Butter (Sg.)",
+    "word_uz": "saryogʻ"
+  },
+  {
+    "id": "ffc87819-77f8-4cd9-88f8-479e466853de",
+    "theme": "Einkaufen",
+    "word_de": "das Ei",
+    "word_uz": "tuxum"
+  },
+  {
+    "id": "e71386a6-f27b-4b45-a404-4e37b7565760",
+    "theme": "Einkaufen",
+    "word_de": "das Mehl (Sg.)",
+    "word_uz": "un"
+  },
+  {
+    "id": "305425fb-22a4-4885-bdcb-7527b0ef5d62",
+    "theme": "Einkaufen",
+    "word_de": "die Milch (Sg.)",
+    "word_uz": "sut"
+  },
+  {
+    "id": "f3fd8ee5-c1b7-4bb2-878a-5eb4c5b58293",
+    "theme": "Einkaufen",
+    "word_de": "der Zucker (Sg.)",
+    "word_uz": "shakar"
+  },
+  {
+    "id": "40abc4a1-5c62-47d1-8b94-7574126fee18",
+    "theme": "Einkaufen",
+    "word_de": "der Pfannkuchen",
+    "word_uz": "qaymoq"
+  },
+  {
+    "id": "a548ea9d-402b-4632-9e2a-5694b8c9ca73",
+    "theme": "Einkaufen",
+    "word_de": "die Schokolade (Sg.)",
+    "word_uz": "shokolad"
+  },
+  {
+    "id": "6106d2f3-c379-4740-b1d0-c3dbf238f0a6",
+    "theme": "Einkaufen",
+    "word_de": "brauchen",
+    "word_uz": "kerak"
+  },
+  {
+    "id": "a852bd31-30e5-4179-9851-0ee1f7c21a01",
+    "theme": "Einkaufen",
+    "word_de": "kaufen",
+    "word_uz": "sotib"
+  },
+  {
+    "id": "b465cc3c-49c5-46b9-9845-14f3607397fe",
+    "theme": "Einkaufen",
+    "word_de": "der Hunger (Sg.i)",
+    "word_uz": "ochlik"
+  },
+  {
+    "id": "08b06495-33c8-4f5e-b9a2-c2d8066cd061",
+    "theme": "Einkaufen",
+    "word_de": "der Euro (Sg.)",
+    "word_uz": "yevro"
+  },
+  {
+    "id": "cafb9522-fbf5-4c72-9bfc-c5fe98ba8ea5",
+    "theme": "Einkaufen",
+    "word_de": "das Fleisch (Sg.)",
+    "word_uz": "goʼsht"
+  },
+  {
+    "id": "6a4a3f73-f4b8-4b61-aae8-df68aa367a32",
+    "theme": "Einkaufen",
+    "word_de": "das Bier (Sg.)",
+    "word_uz": "pivo"
+  },
+  {
+    "id": "da01209d-1086-439b-9839-00a54a4c5e0e",
+    "theme": "Einkaufen",
+    "word_de": "der Käse (Sg.)",
+    "word_uz": "sir"
+  },
+  {
+    "id": "0f7147e5-d466-4981-8291-ed970f957193",
+    "theme": "Einkaufen",
+    "word_de": "das Salz (Sg.)",
+    "word_uz": "tuz"
+  },
+  {
+    "id": "9b0d4c5b-1cda-40f5-9a46-7db37ad93e34",
+    "theme": "Einkaufen",
+    "word_de": "der Tee",
+    "word_uz": "choy"
+  },
+  {
+    "id": "2eeea048-660f-484f-bd1e-d88086d4a48d",
+    "theme": "Einkaufen",
+    "word_de": "das Brot",
+    "word_uz": "non"
+  },
+  {
+    "id": "cd3fe664-d4ef-4351-84d3-607a37bca06d",
+    "theme": "Einkaufen",
+    "word_de": "der Wein",
+    "word_uz": "sharob"
+  },
+  {
+    "id": "e991858a-874b-495b-b2ad-7246cb46d491",
+    "theme": "Einkaufen",
+    "word_de": "das Mineralwasser",
+    "word_uz": "mineral"
+  },
+  {
+    "id": "0899b29d-5857-4b14-91f5-eba95ef7dac0",
+    "theme": "Einkaufen",
+    "word_de": "der Reis (Sg.)",
+    "word_uz": "guruch"
+  },
+  {
+    "id": "9f37e612-b49e-444d-86f5-84ce6bac3c9e",
+    "theme": "Einkaufen",
+    "word_de": "der Fisch",
+    "word_uz": "baliq"
+  },
+  {
+    "id": "7ba9963d-46ee-45c5-bbf8-6e9e89572a18",
+    "theme": "Einkaufen",
+    "word_de": "einkein",
+    "word_uz": "tuxum"
+  },
+  {
+    "id": "5c68d991-38d0-4129-b2e1-67dd05ee06b7",
+    "theme": "Einkaufen",
+    "word_de": "der Apfel",
+    "word_uz": "olma"
+  },
+  {
+    "id": "ab493171-ecca-4dbb-8a0e-5d9a3b3bb7a2",
+    "theme": "Einkaufen",
+    "word_de": "die Orange",
+    "word_uz": "apelsin"
+  },
+  {
+    "id": "05bff148-8797-42cc-8478-c9043955179d",
+    "theme": "Einkaufen",
+    "word_de": "der Kuchen",
+    "word_uz": "tort"
+  },
+  {
+    "id": "4619ab36-3f89-45b1-b3d8-c18b568b3e55",
+    "theme": "Einkaufen",
+    "word_de": "der Kaffee",
+    "word_uz": "kofe"
+  },
+  {
+    "id": "be380e3c-0f60-4f93-b142-3022b2446d21",
+    "theme": "Einkaufen",
+    "word_de": "der Saft",
+    "word_uz": "sharbat"
+  },
+  {
+    "id": "c6e14183-a983-41d1-b062-092d0d948472",
+    "theme": "Einkaufen",
+    "word_de": "das Brötchen",
+    "word_uz": "blochka"
+  },
+  {
+    "id": "d3a322e4-feef-498c-87b3-d355d2761428",
+    "theme": "Einkaufen",
+    "word_de": "das Würstchen",
+    "word_uz": "kalbasa"
+  },
+  {
+    "id": "42aec228-dc43-4178-b64b-a27d24551c7a",
+    "theme": "Einkaufen",
+    "word_de": "die Birne",
+    "word_uz": "nok"
+  },
+  {
+    "id": "ba2d9d54-5c71-4561-8196-4339142eb7e8",
+    "theme": "Einkaufen",
+    "word_de": "die Tomate",
+    "word_uz": "pomidor"
+  },
+  {
+    "id": "bc4115b8-e6da-4a11-96d0-ad78ffb119ad",
+    "theme": "Einkaufen",
+    "word_de": "die Kartoffel",
+    "word_uz": "kartoshka"
+  },
+  {
+    "id": "d61154ff-86a5-4e87-8e9c-43938a1e7e20",
+    "theme": "Einkaufen",
+    "word_de": "der/• das Joghurt",
+    "word_uz": "yogurt"
+  },
+  {
+    "id": "4a3aa4e8-1fdd-456f-a7ed-cf22f53b3497",
+    "theme": "Einkaufen",
+    "word_de": "die Zwiebel",
+    "word_uz": "piyoz"
+  },
+  {
+    "id": "f3310411-2747-465c-8f10-cd5d622e8314",
+    "theme": "Einkaufen",
+    "word_de": "das Regal",
+    "word_uz": "javob"
+  },
+  {
+    "id": "9e487673-9385-47a9-883e-d6618df59b30",
+    "theme": "Einkaufen",
+    "word_de": "der Preis",
+    "word_uz": "narx"
+  },
+  {
+    "id": "980d59c8-ba1d-4bb5-8a33-62888ce54c1e",
+    "theme": "Einkaufen",
+    "word_de": "der Cent (Sg.)",
+    "word_uz": "sent"
+  },
+  {
+    "id": "9e93d0bf-d421-4990-8d54-3c2a24fb7d3e",
+    "theme": "Einkaufen",
+    "word_de": "der Prospekt",
+    "word_uz": "prospekt"
+  },
+  {
+    "id": "ff756d20-6ffc-4947-ad53-1f69e8ba18d7",
+    "theme": "Einkaufen",
+    "word_de": "das Sonderangebot",
+    "word_uz": "maxsus"
+  },
+  {
+    "id": "45c8dc52-9e9b-4bf0-9746-1ed79cae4c68",
+    "theme": "Einkaufen",
+    "word_de": "das Lebensm ittel",
+    "word_uz": "ovqat"
+  },
+  {
+    "id": "1434c696-bda7-4912-9429-31f9f1a695f0",
+    "theme": "Einkaufen",
+    "word_de": "wie viel",
+    "word_uz": "narxi"
+  },
+  {
+    "id": "246c3c09-4634-4220-998c-63814e0531d5",
+    "theme": "Einkaufen",
+    "word_de": "kosten",
+    "word_uz": "harajat"
+  },
+  {
+    "id": "6a325ec7-149f-44f7-827f-b117920e9d79",
+    "theme": "Einkaufen",
+    "word_de": "das Kilo(gramm) (kg)",
+    "word_uz": "kilogramm"
+  },
+  {
+    "id": "14914336-11ae-4a12-a5e0-31cfa9ba5bec",
+    "theme": "Einkaufen",
+    "word_de": "das Gramm (g) (Sg.)",
+    "word_uz": "gramm"
+  },
+  {
+    "id": "3d2b44d4-0ee7-4f72-80e5-b0d1f1391c82",
+    "theme": "Einkaufen",
+    "word_de": "das Pfund (Sg.)",
+    "word_uz": "funt"
+  },
+  {
+    "id": "98f81916-b43b-4ff4-8b26-1a7fcfb8ba17",
+    "theme": "Einkaufen",
+    "word_de": "der Liter (I)",
+    "word_uz": "litr"
+  },
+  {
+    "id": "8eff0525-f9a8-499d-8ac0-50796213d9c3",
+    "theme": "Einkaufen",
+    "word_de": "die Flasche",
+    "word_uz": "shisha"
+  },
+  {
+    "id": "b5d4bf64-dc3f-42d2-89b3-71aa7106cc0b",
+    "theme": "Einkaufen",
+    "word_de": "die Dose",
+    "word_uz": "qalay"
+  },
+  {
+    "id": "b9e6684a-1bd4-4733-8cda-2c1370efe62e",
+    "theme": "Einkaufen",
+    "word_de": "die Sahne (Sg.)",
+    "word_uz": "krem"
+  },
+  {
+    "id": "18a4af5b-e595-4aa3-b791-0f3f324ccfc4",
+    "theme": "Einkaufen",
+    "word_de": "die Wurst",
+    "word_uz": "kolbasa"
+  },
+  {
+    "id": "ed2a7a87-b762-4919-849c-a07d95e56ce8",
+    "theme": "Einkaufen",
+    "word_de": "das Hackfleisch (Sg.)",
+    "word_uz": "qiyma"
+  },
+  {
+    "id": "f13a56b0-d714-4dad-9c88-afe4a9c43ad0",
+    "theme": "Einkaufen",
+    "word_de": "der Verkäufer",
+    "word_uz": "sotuvchi"
+  },
+  {
+    "id": "d382dd1a-e1a3-4aaa-9cda-de20900b06b8",
+    "theme": "Einkaufen",
+    "word_de": "die Verkäuferin",
+    "word_uz": "sotuvchi"
+  },
+  {
+    "id": "20000965-2489-4043-90d1-718938a93fd8",
+    "theme": "Einkaufen",
+    "word_de": "der Kunde",
+    "word_uz": "mijoz"
+  },
+  {
+    "id": "154e1ac1-25cf-4c5b-acfe-f98975963f16",
+    "theme": "Einkaufen",
+    "word_de": "die Kundin",
+    "word_uz": "mijoz"
+  },
+  {
+    "id": "f0993480-6976-415a-bc60-36a292c42254",
+    "theme": "Einkaufen",
+    "word_de": "noch",
+    "word_uz": "hali"
+  },
+  {
+    "id": "94cdf7fb-bd33-45ef-bd44-13559a406836",
+    "theme": "Einkaufen",
+    "word_de": "möchten",
+    "word_uz": "istayman"
+  },
+  {
+    "id": "5fbad316-1b0d-4e50-82d2-1aa44f8433e4",
+    "theme": "Einkaufen",
+    "word_de": "finden",
+    "word_uz": "toping"
+  },
+  {
+    "id": "583811ca-c80a-4670-a737-259afcb1ddb7",
+    "theme": "Einkaufen",
+    "word_de": "der Laden",
+    "word_uz": "doʼkon"
+  },
+  {
+    "id": "37566d11-d04e-4c78-b154-cd0fc4e3b3c6",
+    "theme": "Einkaufen",
+    "word_de": "das Obst (Sg.)",
+    "word_uz": "meva"
+  },
+  {
+    "id": "3827001c-0cad-4cb7-8414-b767f8a45541",
+    "theme": "Einkaufen",
+    "word_de": "das Gemüse",
+    "word_uz": "sabzavot"
+  },
+  {
+    "id": "2ba039b1-a55a-426c-9dce-1c14eb792d36",
+    "theme": "Einkaufen",
+    "word_de": "die Bäckerei",
+    "word_uz": "nonvoyxona"
+  },
+  {
+    "id": "097c3282-09de-4def-aac1-961032b7ab4a",
+    "theme": "Einkaufen",
+    "word_de": "das Rezept",
+    "word_uz": "retsept"
+  },
+  {
+    "id": "a6fbaaf6-46fe-4ec8-a993-d75676f36ef0",
+    "theme": "Einkaufen",
+    "word_de": "das Wasser (Sg.)",
+    "word_uz": "suv"
+  },
+  {
+    "id": "22dd391f-a3de-4083-9f09-01f03ceef544",
+    "theme": "Einkaufen",
+    "word_de": "der Pfeffer (Sg.)",
+    "word_uz": "qalampir"
+  },
+  {
+    "id": "1dc365f2-6347-4a9d-a7ee-9fc7aabfbcf0",
+    "theme": "Meine wohnung",
+    "word_de": "die Wohnung",
+    "word_uz": "kvartira"
+  },
+  {
+    "id": "15c78adb-0d01-4482-a0ec-6d1ea8de0bee",
+    "theme": "Meine wohnung",
+    "word_de": "die Lampe",
+    "word_uz": "chiroq"
+  },
+  {
+    "id": "d67a7381-59fe-4a3f-8a2c-f08d9ec146f9",
+    "theme": "Meine wohnung",
+    "word_de": "das Zimmer",
+    "word_uz": "xona"
+  },
+  {
+    "id": "7189434c-7f57-470a-99c9-b10b1ab39f19",
+    "theme": "Meine wohnung",
+    "word_de": "die Küche",
+    "word_uz": "Oshxona"
+  },
+  {
+    "id": "34608d36-03b3-4a22-bc9b-99addbac81c3",
+    "theme": "Meine wohnung",
+    "word_de": "das Bad",
+    "word_uz": "hammom"
+  },
+  {
+    "id": "385185ed-71d0-42e3-9a79-1ad2a30c8ca7",
+    "theme": "Meine wohnung",
+    "word_de": "alt",
+    "word_uz": "eski"
+  },
+  {
+    "id": "8ecddab7-6449-4a1f-a435-78a1444246f1",
+    "theme": "Meine wohnung",
+    "word_de": "neu",
+    "word_uz": "yangi"
+  },
+  {
+    "id": "5fdb4397-7639-4678-93ea-e9e124e1dffd",
+    "theme": "Meine wohnung",
+    "word_de": "groß",
+    "word_uz": "katta"
+  },
+  {
+    "id": "a3a9b7ef-9588-4f46-bc0e-8b198df198f6",
+    "theme": "Meine wohnung",
+    "word_de": "klein",
+    "word_uz": "kichik"
+  },
+  {
+    "id": "ca62da31-58a5-492a-8439-895ae80be467",
+    "theme": "Meine wohnung",
+    "word_de": "hell",
+    "word_uz": "yorqin"
+  },
+  {
+    "id": "64084e02-1080-4a3c-af89-b4249d383d9b",
+    "theme": "Meine wohnung",
+    "word_de": "dunkel",
+    "word_uz": "qorong'i"
+  },
+  {
+    "id": "7ed56a6c-a051-48a5-8e26-1ac0b9f09335",
+    "theme": "Meine wohnung",
+    "word_de": "teuer",
+    "word_uz": "qimmat"
+  },
+  {
+    "id": "036456b4-0ee1-457a-bff7-b14f1383734f",
+    "theme": "Meine wohnung",
+    "word_de": "billig",
+    "word_uz": "arzon"
+  },
+  {
+    "id": "a0e94e9a-de8f-4784-b890-cd8165b71575",
+    "theme": "Meine wohnung",
+    "word_de": "schön",
+    "word_uz": "yaxshi"
+  },
+  {
+    "id": "b9d270c3-8089-4798-80c7-4570cdaa3112",
+    "theme": "Meine wohnung",
+    "word_de": "hässlich",
+    "word_uz": "xunuk"
+  },
+  {
+    "id": "a3168fbd-850e-417d-8c35-cc049c06944d",
+    "theme": "Meine wohnung",
+    "word_de": "kennen",
+    "word_uz": "bilish"
+  },
+  {
+    "id": "58793238-ce12-4ad0-9b95-96f382b88ee6",
+    "theme": "Meine wohnung",
+    "word_de": "der Flur",
+    "word_uz": "koridor"
+  },
+  {
+    "id": "1526495b-7351-40ba-90a8-d50100d8b663",
+    "theme": "Meine wohnung",
+    "word_de": "die Toilette",
+    "word_uz": "hojatxona"
+  },
+  {
+    "id": "8a3b7a71-49f5-49ba-ae16-32f1b2ae982e",
+    "theme": "Meine wohnung",
+    "word_de": "der Balkon",
+    "word_uz": "balkon"
+  },
+  {
+    "id": "d5b04d7f-a2cf-44bd-bb79-c64f8dad2189",
+    "theme": "Meine wohnung",
+    "word_de": "das Wohnzimmer",
+    "word_uz": "Mehmonhona"
+  },
+  {
+    "id": "305a0ab7-8bcc-4ce4-84c5-22d1e69455fd",
+    "theme": "Meine wohnung",
+    "word_de": "das Haus",
+    "word_uz": "Uy"
+  },
+  {
+    "id": "a4fde154-6c03-4fcd-9de9-1ebf3cf625f4",
+    "theme": "Meine wohnung",
+    "word_de": "hier",
+    "word_uz": "Bu"
+  },
+  {
+    "id": "87dd0441-17b1-4eeb-8c4d-0bf8cfddcafa",
+    "theme": "Meine wohnung",
+    "word_de": "dort",
+    "word_uz": "U"
+  },
+  {
+    "id": "40cfccec-1164-471e-9b4d-abd40b93362d",
+    "theme": "Meine wohnung",
+    "word_de": "aber",
+    "word_uz": "lekin"
+  },
+  {
+    "id": "5d98b613-11de-4a8e-a546-0dc924ca9f36",
+    "theme": "Meine wohnung",
+    "word_de": "nicht",
+    "word_uz": "emas"
+  },
+  {
+    "id": "812f3ce6-176d-41ff-bf68-32282e43e295",
+    "theme": "Meine wohnung",
+    "word_de": "der Monat",
+    "word_uz": "oy"
+  },
+  {
+    "id": "52f8b043-3428-49fb-b9d1-8e4995422cdc",
+    "theme": "Meine wohnung",
+    "word_de": "schmal",
+    "word_uz": "tor"
+  },
+  {
+    "id": "361e6f3e-5f9b-4237-b5fa-b0bd8b56a363",
+    "theme": "Meine wohnung",
+    "word_de": "richtig",
+    "word_uz": "to'g'ri"
+  },
+  {
+    "id": "0654b937-d20b-41c8-a3be-05263dd4d833",
+    "theme": "Meine wohnung",
+    "word_de": "breit",
+    "word_uz": "keng"
+  },
+  {
+    "id": "464d98a2-e362-4f18-be93-d202f5cf5a83",
+    "theme": "Meine wohnung",
+    "word_de": "der Schrank",
+    "word_uz": "shkaf"
+  },
+  {
+    "id": "7ab835a8-c234-4c2e-b01e-1e48c1750044",
+    "theme": "Meine wohnung",
+    "word_de": "der Kühlschrank",
+    "word_uz": "muzlatgich"
+  },
+  {
+    "id": "99c9d963-8b70-46f2-b89e-20e41be36c15",
+    "theme": "Meine wohnung",
+    "word_de": "das Sofa",
+    "word_uz": "divan"
+  },
+  {
+    "id": "7d71fd62-ae00-4c77-a031-87affc807148",
+    "theme": "Meine wohnung",
+    "word_de": "der Tisch",
+    "word_uz": "stol"
+  },
+  {
+    "id": "139f3f3e-070c-4552-ba07-b4205453889b",
+    "theme": "Meine wohnung",
+    "word_de": "der Stuhl",
+    "word_uz": "stul"
+  },
+  {
+    "id": "d53e0acc-d472-446d-978a-3e11c1979b3c",
+    "theme": "Meine wohnung",
+    "word_de": "das Bett",
+    "word_uz": "Yotoq"
+  },
+  {
+    "id": "1c7980fd-8530-40a2-b7ed-a6e1121fc96a",
+    "theme": "Meine wohnung",
+    "word_de": "der Fernseher",
+    "word_uz": "televizor"
+  },
+  {
+    "id": "dcebd8a5-47a1-4f30-92b6-38f0494215e3",
+    "theme": "Meine wohnung",
+    "word_de": "die Dusche",
+    "word_uz": "dush"
+  },
+  {
+    "id": "57322490-36fb-4cc5-b85c-00d4b406b5b2",
+    "theme": "Meine wohnung",
+    "word_de": "der Herd",
+    "word_uz": "pechka"
+  },
+  {
+    "id": "4ef86904-21f5-4db0-81a0-23905f43ef25",
+    "theme": "Meine wohnung",
+    "word_de": "die Badewanne",
+    "word_uz": "vanna"
+  },
+  {
+    "id": "2cade1b4-bce3-4fc0-afab-3e69e3e2eaed",
+    "theme": "Meine wohnung",
+    "word_de": "der Teppich",
+    "word_uz": "gilam"
+  },
+  {
+    "id": "5fb01a1c-1fc8-48b7-8006-9e27de722ef9",
+    "theme": "Meine wohnung",
+    "word_de": "der Sessel",
+    "word_uz": "kreslo"
+  },
+  {
+    "id": "1d90c5e1-a974-4ad5-ab18-038e6f5bd30a",
+    "theme": "Meine wohnung",
+    "word_de": "die Möbel (PI.)",
+    "word_uz": "mebel"
+  },
+  {
+    "id": "4fbdb002-94c3-4118-95dd-a55794751f80",
+    "theme": "Meine wohnung",
+    "word_de": "das Gerät",
+    "word_uz": "qurilma"
+  },
+  {
+    "id": "255cfcff-acf9-4276-b156-3f01ab084fbc",
+    "theme": "Meine wohnung",
+    "word_de": "gefallen",
+    "word_uz": "yiqilgan"
+  },
+  {
+    "id": "dd1d2dd1-f8d5-48f4-b0b5-a33ef93f2923",
+    "theme": "Meine wohnung",
+    "word_de": "die Farbe",
+    "word_uz": "rang"
+  },
+  {
+    "id": "7591abb9-f396-48a3-9e36-9f4053c69dc9",
+    "theme": "Meine wohnung",
+    "word_de": "finden",
+    "word_uz": "top"
+  },
+  {
+    "id": "ffa073c5-369d-4e87-b2be-7a927e16fac1",
+    "theme": "Meine wohnung",
+    "word_de": "ganz",
+    "word_uz": "juda"
+  },
+  {
+    "id": "3d570313-ddb9-4586-964c-0eb675aaa13d",
+    "theme": "Meine wohnung",
+    "word_de": "modern",
+    "word_uz": "zamonaviy"
+  },
+  {
+    "id": "88691386-5a12-4d6b-99b3-bef370f8c249",
+    "theme": "Meine wohnung",
+    "word_de": "schwarz",
+    "word_uz": "qora"
+  },
+  {
+    "id": "50fbcc46-6816-4831-b718-7393c7b377da",
+    "theme": "Meine wohnung",
+    "word_de": "grau",
+    "word_uz": "kulrang"
+  },
+  {
+    "id": "a5885a58-1eb8-490d-8d8f-ee73ce82da03",
+    "theme": "Meine wohnung",
+    "word_de": "weiß",
+    "word_uz": "oq"
+  },
+  {
+    "id": "2df824a6-b73c-4cbd-8009-dddbc6dd399a",
+    "theme": "Meine wohnung",
+    "word_de": "grün",
+    "word_uz": "yashil"
+  },
+  {
+    "id": "c898b4dc-1dd7-4f75-bf2d-460dc44c737b",
+    "theme": "Meine wohnung",
+    "word_de": "braun",
+    "word_uz": "jigarrang"
+  },
+  {
+    "id": "77be2e71-4413-4ee6-a3f2-d1ee46d92774",
+    "theme": "Meine wohnung",
+    "word_de": "blau",
+    "word_uz": "ko'k"
+  },
+  {
+    "id": "8c37868b-edfe-4723-9726-bccbffa630da",
+    "theme": "Meine wohnung",
+    "word_de": "rot",
+    "word_uz": "qizil"
+  },
+  {
+    "id": "696b5865-cfae-49b7-8514-6d6f44a5b81e",
+    "theme": "Meine wohnung",
+    "word_de": "gelb",
+    "word_uz": "sariq"
+  },
+  {
+    "id": "3133d946-67ca-494b-b4a1-ea6707558f14",
+    "theme": "Meine wohnung",
+    "word_de": "hell- (+ Farbe)",
+    "word_uz": "ochiq"
+  },
+  {
+    "id": "986240e2-38e1-492a-b2fd-69ae3fbbf41e",
+    "theme": "Meine wohnung",
+    "word_de": "dunkel- (+ Farbe)",
+    "word_uz": "quyuq"
+  },
+  {
+    "id": "77767df2-f812-4d1c-bb7e-34ef09695f8e",
+    "theme": "Meine wohnung",
+    "word_de": "der Zentim eter (cm)",
+    "word_uz": "santimetr"
+  },
+  {
+    "id": "776cfed8-b04b-4e49-80d3-5e019717cf73",
+    "theme": "Meine wohnung",
+    "word_de": "mal",
+    "word_uz": "shunchaki"
+  },
+  {
+    "id": "f2840bd0-6654-48ff-8022-7c9c827f2e64",
+    "theme": "Meine wohnung",
+    "word_de": "das Handy",
+    "word_uz": "telefon"
+  },
+  {
+    "id": "33e048bd-55ff-4055-b0b3-c3ad887f32fb",
+    "theme": "Meine wohnung",
+    "word_de": "die Arbeit (Sg.)",
+    "word_uz": "ish"
+  },
+  {
+    "id": "86676220-9407-4a46-8cd6-1ac36c7c02ea",
+    "theme": "Meine wohnung",
+    "word_de": "die Anzeige",
+    "word_uz": "reklama"
+  },
+  {
+    "id": "c2ada71a-3b8c-4d99-bcc7-59ec5601e69b",
+    "theme": "Meine wohnung",
+    "word_de": "nett",
+    "word_uz": "mehribon"
+  },
+  {
+    "id": "028a32b2-68ed-444e-bb0e-edf56a02930a",
+    "theme": "Meine wohnung",
+    "word_de": "das Ehepaar",
+    "word_uz": "juftlik"
+  },
+  {
+    "id": "840d832a-7ad1-4292-95cf-43d03228fb22",
+    "theme": "Meine wohnung",
+    "word_de": "suchen",
+    "word_uz": "izlash"
+  },
+  {
+    "id": "377d7b2c-af6c-4b13-8824-85bf1a42031a",
+    "theme": "Meine wohnung",
+    "word_de": "der Garten",
+    "word_uz": "bog'"
+  },
+  {
+    "id": "967f854c-de8c-4849-acbb-506d56f65f2e",
+    "theme": "Meine wohnung",
+    "word_de": "verm ieten",
+    "word_uz": "ijara"
+  },
+  {
+    "id": "8880aefe-87dd-4c62-ae1c-c15db46c80d2",
+    "theme": "Meine wohnung",
+    "word_de": "das Apartm ent",
+    "word_uz": "Kvartira"
+  },
+  {
+    "id": "908b8b88-f73e-466d-bdf4-b55c89af9cda",
+    "theme": "Meine wohnung",
+    "word_de": "der Raum",
+    "word_uz": "bo'sh"
+  },
+  {
+    "id": "9a88dc8e-3033-4c84-bc23-7caafdfbc512",
+    "theme": "Meine wohnung",
+    "word_de": "der Stock (Sg.)",
+    "word_uz": "tayoq"
+  },
+  {
+    "id": "c41d3ea1-40cb-4175-8791-ced22fa9a2c1",
+    "theme": "Meine wohnung",
+    "word_de": "circa (ca.)",
+    "word_uz": "taxminan"
+  },
+  {
+    "id": "1720d700-1c15-421d-97a0-f8a880844b08",
+    "theme": "Meine wohnung",
+    "word_de": "privat",
+    "word_uz": "shaxsiy"
+  },
+  {
+    "id": "b3623c8c-6174-4e4e-a830-3b437ee79e10",
+    "theme": "Meine wohnung",
+    "word_de": "ab",
+    "word_uz": "uzoqda"
+  },
+  {
+    "id": "096c0c6a-3dc1-4f52-b804-c692d9deb4e8",
+    "theme": "Meine wohnung",
+    "word_de": "sofort",
+    "word_uz": "darhol"
+  },
+  {
+    "id": "644a0fd1-cda8-4a21-8ac3-87d33eff6452",
+    "theme": "Meine wohnung",
+    "word_de": "maximal (max.)",
+    "word_uz": "maksimal"
+  },
+  {
+    "id": "effdd867-3c24-499c-88a3-1d52bd65d597",
+    "theme": "Meine wohnung",
+    "word_de": "der Anruf",
+    "word_uz": "chaqiruv"
+  },
+  {
+    "id": "37ce7fbd-b1ff-4d45-9e56-cea5359194bd",
+    "theme": "Meine wohnung",
+    "word_de": "möbliert",
+    "word_uz": "jihozlangan"
+  },
+  {
+    "id": "2e8dda59-5091-454c-a3c8-a616e2f70b53",
+    "theme": "Meine wohnung",
+    "word_de": "das TV",
+    "word_uz": "televizor"
+  },
+  {
+    "id": "49134a59-deaf-4904-a1b1-9d4008871018",
+    "theme": "Meine wohnung",
+    "word_de": "die Garage",
+    "word_uz": "garaj"
+  },
+  {
+    "id": "6d91d560-8074-4b7f-8532-960e38393aa6",
+    "theme": "Meine wohnung",
+    "word_de": "der Quadratm eter",
+    "word_uz": "kvadrat"
+  },
+  {
+    "id": "86e719f1-ffa6-4d06-897b-6c29c0623b02",
+    "theme": "Meine wohnung",
+    "word_de": "nur",
+    "word_uz": "faqat"
+  },
+  {
+    "id": "7bb85512-c0c5-4ae0-a003-d0c8c5d97e0b",
+    "theme": "Meine wohnung",
+    "word_de": "die Miete",
+    "word_uz": "ijara"
+  },
+  {
+    "id": "5064c289-3065-488b-bba9-540fd8a35327",
+    "theme": "Meine wohnung",
+    "word_de": "bezahlen",
+    "word_uz": "to'lash"
+  },
+  {
+    "id": "135ef490-0bd9-4eb9-8372-cdda287887ea",
+    "theme": "Meine wohnung",
+    "word_de": "verkaufen",
+    "word_uz": "sotish"
+  },
+  {
+    "id": "745ae77c-7c99-4db3-9a29-af4f40f54f31",
+    "theme": "Meine wohnung",
+    "word_de": "etwas",
+    "word_uz": "nimadur"
+  },
+  {
+    "id": "5dde31c6-e3cc-4636-b609-238ce36ad9a5",
+    "theme": "Meine wohnung",
+    "word_de": "der Com puter",
+    "word_uz": "Kampyuter"
+  },
+  {
+    "id": "87db57f8-9713-4c59-86f6-74f5dcc37d6b",
+    "theme": "Meine wohnung",
+    "word_de": "der Schreibtisch",
+    "word_uz": "stol"
+  },
+  {
+    "id": "7187d2b9-66fe-4520-a9d5-5ea66d2994fe",
+    "theme": "Meine wohnung",
+    "word_de": "heute",
+    "word_uz": "Bugun"
+  },
+  {
+    "id": "6c418280-64bb-411a-9755-545985144b6d",
+    "theme": "Meine wohnung",
+    "word_de": "Welche",
+    "word_uz": "qaysi"
+  },
+  {
+    "id": "13f2309e-6def-4cd5-a31b-32c850c11221",
+    "theme": "Meine wohnung",
+    "word_de": "also",
+    "word_uz": "shunday"
+  },
+  {
+    "id": "58ee17a0-db2a-47b8-af1a-0d4260b44e39",
+    "theme": "Meine wohnung",
+    "word_de": "ungefähr",
+    "word_uz": "taxminan"
+  },
+  {
+    "id": "d116d0cd-1272-4132-afaf-cb633082213f",
+    "theme": "Meine wohnung",
+    "word_de": "der Meter (m)",
+    "word_uz": "metr"
+  },
+  {
+    "id": "84350fb1-08f7-47b9-9628-4a86605501b4",
+    "theme": "Meine wohnung",
+    "word_de": "lang",
+    "word_uz": "uzoq"
+  },
+  {
+    "id": "ca2f7e69-7053-4d8f-a26b-20dc9ea9c809",
+    "theme": "Meine wohnung",
+    "word_de": "genau",
+    "word_uz": "Aynan"
+  },
+  {
+    "id": "89eb52f2-b058-4f5e-badc-81247a3bfe98",
+    "theme": "Meine wohnung",
+    "word_de": "sehen",
+    "word_uz": "qarang"
+  },
+  {
+    "id": "d16cc83b-dcf8-4abe-a632-ef4457ef8a49",
+    "theme": "Mein Tag",
+    "word_de": "machen",
+    "word_uz": "qilish"
+  },
+  {
+    "id": "c15a560e-065f-4a43-b179-5493267b9aaa",
+    "theme": "Mein Tag",
+    "word_de": "die Präsentation",
+    "word_uz": "taqdimot"
+  },
+  {
+    "id": "518ac2c9-ec8c-434f-926b-ce2bac4358c7",
+    "theme": "Mein Tag",
+    "word_de": "frühstücken",
+    "word_uz": "nonushta"
+  },
+  {
+    "id": "59dd8530-9b65-410d-98c7-090fdeb170bd",
+    "theme": "Mein Tag",
+    "word_de": "einkaufen",
+    "word_uz": "harid"
+  },
+  {
+    "id": "f3d2e3cf-9f2b-4c46-80f7-b5bdf807f451",
+    "theme": "Mein Tag",
+    "word_de": "hören",
+    "word_uz": "eshitish"
+  },
+  {
+    "id": "923f23bc-d226-4ac3-b251-bfab4961b6b9",
+    "theme": "Mein Tag",
+    "word_de": "kochen",
+    "word_uz": "oshpaz"
+  },
+  {
+    "id": "3c90fd6e-48c4-4d87-8b2f-8baf42f15674",
+    "theme": "Mein Tag",
+    "word_de": "spazieren gehen",
+    "word_uz": "sayrga"
+  },
+  {
+    "id": "5c6dad95-2798-4805-9c7e-5b883fe8e4f3",
+    "theme": "Mein Tag",
+    "word_de": "aufräumen",
+    "word_uz": "tozalash"
+  },
+  {
+    "id": "0966526f-a712-49d3-98e2-44335c340207",
+    "theme": "Mein Tag",
+    "word_de": "aufstehen",
+    "word_uz": "oʻrningizdan"
+  },
+  {
+    "id": "6a1b0e54-67d0-4063-ab17-ad666866b2b0",
+    "theme": "Mein Tag",
+    "word_de": "gehen",
+    "word_uz": "ket"
+  },
+  {
+    "id": "3b800954-5cd1-4287-8e87-6a9af00118bb",
+    "theme": "Mein Tag",
+    "word_de": "oder",
+    "word_uz": "yoki"
+  },
+  {
+    "id": "65ba426b-6c34-43f9-a248-a91a5195e2bf",
+    "theme": "Mein Tag",
+    "word_de": "müde",
+    "word_uz": "charchagan"
+  },
+  {
+    "id": "cf331ed7-d7ce-47e1-a3c6-099a78a4a725",
+    "theme": "Mein Tag",
+    "word_de": "an rufen",
+    "word_uz": "qongʻiroq"
+  },
+  {
+    "id": "63e4c72b-9773-44b4-9fbb-d339afb3f855",
+    "theme": "Mein Tag",
+    "word_de": "früh",
+    "word_uz": "erta"
+  },
+  {
+    "id": "4bd6d231-fab4-480b-8f4f-e5f9af4de4b8",
+    "theme": "Mein Tag",
+    "word_de": "der Supermarkt",
+    "word_uz": "supermarket"
+  },
+  {
+    "id": "3206d2c4-7f5a-452e-a6e7-d7633c6819af",
+    "theme": "Mein Tag",
+    "word_de": "der Montag",
+    "word_uz": "dushanba"
+  },
+  {
+    "id": "83f18bc2-15e1-440e-b5d1-0715b6a752b1",
+    "theme": "Mein Tag",
+    "word_de": "der Freitag",
+    "word_uz": "juma"
+  },
+  {
+    "id": "8a811891-dfe8-4b37-b61a-0e57f2c887a6",
+    "theme": "Mein Tag",
+    "word_de": "der Donnerstag",
+    "word_uz": "payshanba"
+  },
+  {
+    "id": "6789e008-7995-4c1f-9854-0b466e2a6da5",
+    "theme": "Mein Tag",
+    "word_de": "der Mittwoch",
+    "word_uz": "chorshanba"
+  },
+  {
+    "id": "baa68191-46d7-4862-90ab-c061375fae8d",
+    "theme": "Mein Tag",
+    "word_de": "der Dienstag",
+    "word_uz": "seshanba"
+  },
+  {
+    "id": "cf6ee6a9-8dfb-4535-9141-074893454b85",
+    "theme": "Mein Tag",
+    "word_de": "wann",
+    "word_uz": "qachon"
+  },
+  {
+    "id": "548c8a05-158d-42a7-a3a2-3d76d58139ec",
+    "theme": "Mein Tag",
+    "word_de": "um",
+    "word_uz": "atrofida"
+  },
+  {
+    "id": "6baa0a1e-b326-4b80-9f6f-703046002ad9",
+    "theme": "Mein Tag",
+    "word_de": "enden",
+    "word_uz": "bilan"
+  },
+  {
+    "id": "2cea127c-89a2-4bd3-b6cb-eeddf7d4f231",
+    "theme": "Mein Tag",
+    "word_de": "die Party",
+    "word_uz": "party"
+  },
+  {
+    "id": "dc57e945-3e65-496f-8ff6-3555679e14c1",
+    "theme": "Mein Tag",
+    "word_de": "die Zeit (Sg.)",
+    "word_uz": "vaqt"
+  },
+  {
+    "id": "349d101d-0837-41d2-8e4c-65127107de29",
+    "theme": "Mein Tag",
+    "word_de": "der Fußball",
+    "word_uz": "futbol"
+  },
+  {
+    "id": "5c882a37-0f70-4295-bf28-ad1c461b168e",
+    "theme": "Mein Tag",
+    "word_de": "der Samstag",
+    "word_uz": "shanba"
+  },
+  {
+    "id": "61c52ff8-3d22-482d-bd79-8a5622e07a28",
+    "theme": "Mein Tag",
+    "word_de": "der Sonntag",
+    "word_uz": "yakshanba"
+  },
+  {
+    "id": "7c117c95-9af8-44e9-b4a5-eaebc6e3d571",
+    "theme": "Mein Tag",
+    "word_de": "die Hausaufgabe",
+    "word_uz": "uy"
+  },
+  {
+    "id": "44b54e84-f0fe-4772-976f-33e927be5b36",
+    "theme": "Mein Tag",
+    "word_de": "die Mama",
+    "word_uz": "onam"
+  },
+  {
+    "id": "a629b3ca-3f6a-4487-8aa1-52875f9ceaab",
+    "theme": "Mein Tag",
+    "word_de": "schlafen",
+    "word_uz": "uyqu"
+  },
+  {
+    "id": "05988f33-b6e8-4224-bf20-a0eecc7f1b0c",
+    "theme": "Mein Tag",
+    "word_de": "das Wochenende",
+    "word_uz": "hafta"
+  },
+  {
+    "id": "024cedc4-70f1-4f22-8c58-7a6bdb15d79c",
+    "theme": "Mein Tag",
+    "word_de": "nächst",
+    "word_uz": "keyingisi"
+  },
+  {
+    "id": "2f50cadd-844e-46a2-b504-f7ba6728247a",
+    "theme": "Mein Tag",
+    "word_de": "die Woche",
+    "word_uz": "hafta"
+  },
+  {
+    "id": "84eed5f7-61b4-4839-ad99-d1ec428104d7",
+    "theme": "Mein Tag",
+    "word_de": "der Mittag",
+    "word_uz": "peshin"
+  },
+  {
+    "id": "d64ba48c-83e8-449c-bd95-bd68ae8721ce",
+    "theme": "Mein Tag",
+    "word_de": "der Morgen",
+    "word_uz": "ertalab"
+  },
+  {
+    "id": "9694b940-4832-4b3e-be05-cf598388e9ac",
+    "theme": "Mein Tag",
+    "word_de": "der Abend",
+    "word_uz": "kechqurun"
+  },
+  {
+    "id": "53784fa5-3ebf-4db1-9df9-f37d028dea38",
+    "theme": "Mein Tag",
+    "word_de": "der Nachmittag",
+    "word_uz": "tushdan"
+  },
+  {
+    "id": "abb0692c-fcfd-4448-896c-aab99462154a",
+    "theme": "Mein Tag",
+    "word_de": "der Vormittag",
+    "word_uz": "ertalab"
+  },
+  {
+    "id": "a82ad763-77fb-40dc-8521-8de96909ad29",
+    "theme": "Mein Tag",
+    "word_de": "die Nacht",
+    "word_uz": "tun"
+  },
+  {
+    "id": "d7cb0532-dcaa-4c10-a5ce-4e57d50aebb6",
+    "theme": "Mein Tag",
+    "word_de": "das Kino",
+    "word_uz": "kino"
+  },
+  {
+    "id": "e5c57c71-0d56-4187-8b22-71915644feb1",
+    "theme": "Mein Tag",
+    "word_de": "der Sport (Sg.)",
+    "word_uz": "sport"
+  },
+  {
+    "id": "0ca8ea1b-d347-48b5-bd29-87d850573f1b",
+    "theme": "Mein Tag",
+    "word_de": "trinken",
+    "word_uz": "ichish"
+  },
+  {
+    "id": "b8e138ea-a96a-4eee-9653-b36e8743a148",
+    "theme": "Mein Tag",
+    "word_de": "die Pizza",
+    "word_uz": "pitsa"
+  },
+  {
+    "id": "860bfbe5-cdfd-42de-bf3e-62aea23dea74",
+    "theme": "Mein Tag",
+    "word_de": "Pizzen",
+    "word_uz": "pitsalar"
+  },
+  {
+    "id": "85019086-6889-4fad-9cf2-0655fb6d89b7",
+    "theme": "Mein Tag",
+    "word_de": "chatten",
+    "word_uz": "gaplawiw"
+  },
+  {
+    "id": "2ceef329-a5d6-4c9f-9fab-cb501f63d327",
+    "theme": "Mein Tag",
+    "word_de": "geöffnet",
+    "word_uz": "ochiq"
+  },
+  {
+    "id": "e621df64-1ada-4687-812f-6d9ed3ed9ebc",
+    "theme": "Mein Tag",
+    "word_de": "der Termin",
+    "word_uz": "uchrashuv"
+  },
+  {
+    "id": "7bf8e442-eb57-458e-9a4b-89d8a6eedccd",
+    "theme": "Mein Tag",
+    "word_de": "der Kindergarten",
+    "word_uz": "bolalar"
+  },
+  {
+    "id": "a4472539-37ac-40ef-8c2f-0513d7270f32",
+    "theme": "Mein Tag",
+    "word_de": "das Geschäft",
+    "word_uz": "biznes"
+  },
+  {
+    "id": "cfd0f45b-545d-4842-a872-71d93dea89e3",
+    "theme": "Mein Tag",
+    "word_de": "die Bibliothek",
+    "word_uz": "kutibxona"
+  },
+  {
+    "id": "e8d3cd28-3843-46eb-b807-0dd1c58e9f98",
+    "theme": "Mein Tag",
+    "word_de": "geschlossen",
+    "word_uz": "yopiq"
+  },
+  {
+    "id": "982dd2ca-6f53-48fb-b53e-ba6b1255d5b8",
+    "theme": "Mein Tag",
+    "word_de": "öffnen",
+    "word_uz": "ochiq"
+  },
+  {
+    "id": "4f43bfc9-b8e2-49e9-840c-51ee9d553952",
+    "theme": "Mein Tag",
+    "word_de": "schließen",
+    "word_uz": "yopish"
+  },
+  {
+    "id": "243df43e-66fa-4d77-9394-5c681078208d",
+    "theme": "Mein Tag",
+    "word_de": "die Praxis",
+    "word_uz": "amaliyot"
+  },
+  {
+    "id": "6059fd7c-a6e0-4edf-96b0-9f2b84c2b36e",
+    "theme": "Mein Tag",
+    "word_de": "der Tag",
+    "word_uz": "kun"
+  },
+  {
+    "id": "f4b5e4d0-344d-4568-aba3-feb551cb33e6",
+    "theme": "Mein Tag",
+    "word_de": "jed",
+    "word_uz": "har"
+  },
+  {
+    "id": "8c7f31c6-a9cf-4b85-bdea-f0ef8627204e",
+    "theme": "Mein Tag",
+    "word_de": "die Kita (Kindertagestätte)",
+    "word_uz": "bolalar"
+  },
+  {
+    "id": "e47d9b76-e79f-4bfc-87ee-ee73b55b004e",
+    "theme": "Mein Tag",
+    "word_de": "bringen",
+    "word_uz": "olib"
+  },
+  {
+    "id": "2db6f434-60c6-4988-8d7c-a487a6e24b77",
+    "theme": "Mein Tag",
+    "word_de": "abholen",
+    "word_uz": "olib"
+  },
+  {
+    "id": "5c3d0917-ea0b-4495-b80c-451de779fc3d",
+    "theme": "Mein Tag",
+    "word_de": "mehr",
+    "word_uz": "koproq"
+  },
+  {
+    "id": "55f3970f-89d3-4790-af67-5634eac9d66f",
+    "theme": "Mein Tag",
+    "word_de": "das Beispiel",
+    "word_uz": "misol"
+  },
+  {
+    "id": "8b74a7ed-1c0e-45e6-b14c-07b146b18fcc",
+    "theme": "Mein Tag",
+    "word_de": "zum Beispiel (z. B.)",
+    "word_uz": "masalan"
+  },
+  {
+    "id": "3c775eb0-0efe-44ce-8947-be48690c3d68",
+    "theme": "Mein Tag",
+    "word_de": "wieder",
+    "word_uz": "yana"
+  },
+  {
+    "id": "f88dac9f-74aa-47bf-8380-e9d4ea056ba9",
+    "theme": "Mein Tag",
+    "word_de": "der Freund",
+    "word_uz": "yigit"
+  },
+  {
+    "id": "5328eff0-6e76-462a-b922-5d749263758e",
+    "theme": "Mein Tag",
+    "word_de": "die Freundin",
+    "word_uz": "qiz"
+  },
+  {
+    "id": "6ca5625a-479a-4dc5-9dca-de6c1d61e9c4",
+    "theme": "Mein Tag",
+    "word_de": "fragen",
+    "word_uz": "savollar"
+  },
+  {
+    "id": "36646608-1f52-4c2f-a9e9-8e9fd82faf86",
+    "theme": "Mein Tag",
+    "word_de": "antworten",
+    "word_uz": "javob"
+  },
+  {
+    "id": "66bbf684-804c-41c0-bd6f-fbba94ca456f",
+    "theme": "Mein Tag",
+    "word_de": "total",
+    "word_uz": "jami"
+  },
+  {
+    "id": "c583b93b-ca56-413b-bdc8-975881469f93",
+    "theme": "Freizeit",
+    "word_de": "der Ausflug",
+    "word_uz": "samolyot"
+  },
+  {
+    "id": "20a47b7a-02ca-4147-91af-7bb471c9e493",
+    "theme": "Freizeit",
+    "word_de": "das Auto",
+    "word_uz": "mashina"
+  },
+  {
+    "id": "e31c9a21-167e-4b6e-ace7-4167f2c03f7f",
+    "theme": "Freizeit",
+    "word_de": "wandern",
+    "word_uz": "piyoda"
+  },
+  {
+    "id": "541f652f-8e8b-4d64-975b-ab91be593095",
+    "theme": "Freizeit",
+    "word_de": "telefonieren",
+    "word_uz": "telefonlashmoq"
+  },
+  {
+    "id": "35f8d234-dd61-420b-8068-d4138be33555",
+    "theme": "Freizeit",
+    "word_de": "das Wetter",
+    "word_uz": "ob"
+  },
+  {
+    "id": "6ceb25d3-0ac1-4b73-b9be-b175574f9232",
+    "theme": "Freizeit",
+    "word_de": "die Sonne (Sg.)",
+    "word_uz": "quyosh"
+  },
+  {
+    "id": "38b43859-ea23-4c42-8674-3ba8da62eeca",
+    "theme": "Freizeit",
+    "word_de": "scheinen",
+    "word_uz": "nur"
+  },
+  {
+    "id": "cf9e7afa-0fd9-4aa3-bdce-d504e40d82e8",
+    "theme": "Freizeit",
+    "word_de": "regnen",
+    "word_uz": "yomg"
+  },
+  {
+    "id": "ebf47c82-f308-4983-bacd-f02d3c3e2132",
+    "theme": "Freizeit",
+    "word_de": "viel",
+    "word_uz": "ko"
+  },
+  {
+    "id": "74db776c-2193-4d12-ac19-de511a9c1c59",
+    "theme": "Freizeit",
+    "word_de": "die Wolke",
+    "word_uz": "bulut"
+  },
+  {
+    "id": "48af59cd-06f0-4d31-b6ac-fe8f4704642b",
+    "theme": "Freizeit",
+    "word_de": "los (losgehen)",
+    "word_uz": "ketdik"
+  },
+  {
+    "id": "ed4d759e-3d27-4c7a-8e79-367f315868a7",
+    "theme": "Freizeit",
+    "word_de": "vergessen",
+    "word_uz": "unutmoq"
+  },
+  {
+    "id": "43867799-aecc-4d55-8098-539d95d8a602",
+    "theme": "Freizeit",
+    "word_de": "der Durst (Sg.)",
+    "word_uz": "tashna"
+  },
+  {
+    "id": "dc2904b7-9923-47f7-82f7-e394159ad20d",
+    "theme": "Freizeit",
+    "word_de": "das Grad (Sg.)",
+    "word_uz": "gradus"
+  },
+  {
+    "id": "d010b456-7e73-439e-8fa5-53dd959ddf99",
+    "theme": "Freizeit",
+    "word_de": "warm",
+    "word_uz": "iliq"
+  },
+  {
+    "id": "65a7b4be-154a-4532-86c0-f014a9f9b976",
+    "theme": "Freizeit",
+    "word_de": "windig",
+    "word_uz": "shamolli"
+  },
+  {
+    "id": "3cda5ea3-48f3-4b5e-9324-21734fbac985",
+    "theme": "Freizeit",
+    "word_de": "kalt",
+    "word_uz": "sovuq"
+  },
+  {
+    "id": "933d2bf8-7b94-4f08-940c-c4393024ead5",
+    "theme": "Freizeit",
+    "word_de": "schneien",
+    "word_uz": "qor"
+  },
+  {
+    "id": "80a0884d-e055-4734-a7ac-c18632da2ea7",
+    "theme": "Freizeit",
+    "word_de": "bewölkt",
+    "word_uz": "bulutli"
+  },
+  {
+    "id": "dec6950d-7cd0-4506-99e3-e4157f80de1a",
+    "theme": "Freizeit",
+    "word_de": "der Wetterbericht",
+    "word_uz": "ob"
+  },
+  {
+    "id": "6ac9e1bb-6f86-454d-b50b-743e9b2a7814",
+    "theme": "Freizeit",
+    "word_de": "die Mitte (Sg.)",
+    "word_uz": "o"
+  },
+  {
+    "id": "837d6b4a-2bbe-41b4-81e8-5cfe62ee8f3e",
+    "theme": "Freizeit",
+    "word_de": "überall",
+    "word_uz": "hamma"
+  },
+  {
+    "id": "8b0c05bd-d6fc-403f-960a-25f7d4cfc197",
+    "theme": "Freizeit",
+    "word_de": "die Temperatur",
+    "word_uz": "temperatura"
+  },
+  {
+    "id": "2d8c6c33-d9a9-44b3-bcef-d08d42940c0d",
+    "theme": "Freizeit",
+    "word_de": "steigen",
+    "word_uz": "ko"
+  },
+  {
+    "id": "9920e631-a881-4128-80e6-483b0d9eceb2",
+    "theme": "Freizeit",
+    "word_de": "sonnig",
+    "word_uz": "quyoshli"
+  },
+  {
+    "id": "a5ac8020-7cc1-444d-9966-44a640fabf5a",
+    "theme": "Freizeit",
+    "word_de": "leicht",
+    "word_uz": "yengil"
+  },
+  {
+    "id": "5e966a43-7796-4e05-b477-d0d818a541a7",
+    "theme": "Freizeit",
+    "word_de": "bleiben",
+    "word_uz": "qolmoq"
+  },
+  {
+    "id": "3bfbb370-b95b-4431-948f-d4ed176c4509",
+    "theme": "Freizeit",
+    "word_de": "der Regen (Sg.)",
+    "word_uz": "yomg"
+  },
+  {
+    "id": "a12409b6-be0b-4a46-92b2-ad3259e29e2c",
+    "theme": "Freizeit",
+    "word_de": "der Schnee (Sg.)",
+    "word_uz": "qor"
+  },
+  {
+    "id": "0ae0dda2-e70e-40b4-abf4-d2b9611debea",
+    "theme": "Freizeit",
+    "word_de": "plus",
+    "word_uz": "plus"
+  },
+  {
+    "id": "ddc57e87-acc1-4b8f-bbd3-f1583132e91f",
+    "theme": "Freizeit",
+    "word_de": "minus",
+    "word_uz": "minus"
+  },
+  {
+    "id": "19ff1518-8dea-46dc-8438-abae4b952c5c",
+    "theme": "Freizeit",
+    "word_de": "das Radio",
+    "word_uz": "radio"
+  },
+  {
+    "id": "ad559f22-258c-417e-ad61-52449e6f777e",
+    "theme": "Freizeit",
+    "word_de": "das Internet (Sg.)",
+    "word_uz": "internet"
+  },
+  {
+    "id": "432fcf30-3c1a-4bd1-9544-92b5c2871e65",
+    "theme": "Freizeit",
+    "word_de": "der Sommer",
+    "word_uz": "yoz"
+  },
+  {
+    "id": "3dd75784-df6d-4d18-980e-d45155816d77",
+    "theme": "Freizeit",
+    "word_de": "heiß",
+    "word_uz": "issiq"
+  },
+  {
+    "id": "d7071c81-742d-4a15-8f38-78f41dc37f5e",
+    "theme": "Freizeit",
+    "word_de": "der Frühling",
+    "word_uz": "bahor"
+  },
+  {
+    "id": "b687b0ed-cd8d-4a52-89be-021154b0a3a5",
+    "theme": "Freizeit",
+    "word_de": "der Wind",
+    "word_uz": "shamol"
+  },
+  {
+    "id": "30f386a8-963e-4547-a8d0-c538114c0e43",
+    "theme": "Freizeit",
+    "word_de": "angenehm",
+    "word_uz": "yoqimli"
+  },
+  {
+    "id": "cf40a044-db61-4f09-abef-d20465e5c69d",
+    "theme": "Freizeit",
+    "word_de": "die Speisekarte",
+    "word_uz": "menyu"
+  },
+  {
+    "id": "1d92e5b8-652b-4158-82ea-22d99d4c0ed0",
+    "theme": "Freizeit",
+    "word_de": "der Hamburger",
+    "word_uz": "gamburger"
+  },
+  {
+    "id": "dc021d69-3c1d-474c-a65d-12a995f152ae",
+    "theme": "Freizeit",
+    "word_de": "die Speise",
+    "word_uz": "ovqat"
+  },
+  {
+    "id": "b9a7de5d-98ac-4eab-bda7-c424fb98db0f",
+    "theme": "Freizeit",
+    "word_de": "die Pommes frites",
+    "word_uz": "fransuz"
+  },
+  {
+    "id": "b934cd4b-76c4-4124-93a5-04aaf3c6403e",
+    "theme": "Freizeit",
+    "word_de": "die Portion",
+    "word_uz": "qism"
+  },
+  {
+    "id": "a568a95f-c3f4-4285-8c57-55c4778122ae",
+    "theme": "Freizeit",
+    "word_de": "der/« das Ketchup",
+    "word_uz": "ketchup"
+  },
+  {
+    "id": "06858aaa-5b80-45a3-a569-f1fc17daf454",
+    "theme": "Freizeit",
+    "word_de": "der Salat",
+    "word_uz": "salat"
+  },
+  {
+    "id": "d05fce9e-e5bc-4b1f-acfc-4d27430c9ddb",
+    "theme": "Freizeit",
+    "word_de": "der Schinken",
+    "word_uz": "choʻchqa"
+  },
+  {
+    "id": "aa062eae-de04-4fb6-946e-163058c1c19f",
+    "theme": "Freizeit",
+    "word_de": "das Getränk",
+    "word_uz": "ichimlik"
+  },
+  {
+    "id": "80fccb93-5284-4c5c-8f37-5614c73fa999",
+    "theme": "Freizeit",
+    "word_de": "die Cola",
+    "word_uz": "kola"
+  },
+  {
+    "id": "058306db-4acc-4011-94d3-67705286d4ff",
+    "theme": "Freizeit",
+    "word_de": "Doch",
+    "word_uz": "lekin"
+  },
+  {
+    "id": "87831c6c-2281-4bc3-b838-0eb37948bb7f",
+    "theme": "Freizeit",
+    "word_de": "lieber",
+    "word_uz": "azizim"
+  },
+  {
+    "id": "db415276-d7d8-415f-acc3-c464b4962d55",
+    "theme": "Freizeit",
+    "word_de": "nehmen",
+    "word_uz": "olish"
+  },
+  {
+    "id": "3dcaeaf7-82e9-4d0e-8a21-31989d6e26d8",
+    "theme": "Freizeit",
+    "word_de": "warum",
+    "word_uz": "nega"
+  },
+  {
+    "id": "6ca52809-02fa-4569-82cd-a32715314a6d",
+    "theme": "Freizeit",
+    "word_de": "der Hund",
+    "word_uz": "it"
+  },
+  {
+    "id": "5c0b2714-f781-44a3-99bf-414e41ccd61a",
+    "theme": "Freizeit",
+    "word_de": "das Eis (Sg.)",
+    "word_uz": "muz"
+  },
+  {
+    "id": "b9ebe6a9-f4c6-4dbf-9868-3e73d737a97a",
+    "theme": "Freizeit",
+    "word_de": "tanzen",
+    "word_uz": "raqsga"
+  },
+  {
+    "id": "2636c3a4-ea8a-4460-80ff-b6397e6cf32d",
+    "theme": "Freizeit",
+    "word_de": "schwimmen",
+    "word_uz": "suzmoq"
+  },
+  {
+    "id": "3352aee7-04f9-459a-89f0-89ab1994a5cc",
+    "theme": "Freizeit",
+    "word_de": "treffen",
+    "word_uz": "uchrashish"
+  },
+  {
+    "id": "733035d7-364c-4a12-8682-17dd82964fd7",
+    "theme": "Freizeit",
+    "word_de": "das Fahrrad",
+    "word_uz": "velosiped"
+  },
+  {
+    "id": "069eda01-920d-4eda-8e29-0f7319a7e12c",
+    "theme": "Freizeit",
+    "word_de": "fahren",
+    "word_uz": "haydash"
+  },
+  {
+    "id": "eb4c8cb0-65fb-4781-a228-ea8afe869247",
+    "theme": "Freizeit",
+    "word_de": "grillen",
+    "word_uz": "gril"
+  },
+  {
+    "id": "b991ed93-57c3-4828-b18e-abc4b46d7f78",
+    "theme": "Freizeit",
+    "word_de": "die Freizeit (Sg.)",
+    "word_uz": "dam"
+  },
+  {
+    "id": "a0cdbe63-9d4d-43e9-ad9c-7cc86b0bec6c",
+    "theme": "Freizeit",
+    "word_de": "das Hobby",
+    "word_uz": "sevimli"
+  },
+  {
+    "id": "6dc0d798-c773-43a6-bc3d-a3ede7916587",
+    "theme": "Freizeit",
+    "word_de": "lesen",
+    "word_uz": "oʻqish"
+  },
+  {
+    "id": "8bc080b2-5285-40b2-9e79-36a928793556",
+    "theme": "Freizeit",
+    "word_de": "der Krimi",
+    "word_uz": "detektiv"
+  },
+  {
+    "id": "b70de620-ebab-4bd0-b939-254421b1f027",
+    "theme": "Freizeit",
+    "word_de": "Lieblings",
+    "word_uz": "sevimli"
+  },
+  {
+    "id": "8e8c4c4c-ed3a-4350-822d-b3774de31be1",
+    "theme": "Freizeit",
+    "word_de": "der Film",
+    "word_uz": "film"
+  },
+  {
+    "id": "793ef0f0-c969-4239-8a06-3310efed7b2b",
+    "theme": "Freizeit",
+    "word_de": "wichtig",
+    "word_uz": "muhim"
+  },
+  {
+    "id": "b7c19717-a2f7-499f-a266-f7a05e08f4ad",
+    "theme": "Freizeit",
+    "word_de": "der Grill",
+    "word_uz": "panjara"
+  },
+  {
+    "id": "29b1cf6b-4992-4370-a6c1-a89ad0676e29",
+    "theme": "Freizeit",
+    "word_de": "sammeln",
+    "word_uz": "yigʻish"
+  },
+  {
+    "id": "10f1b97e-0fda-4eb5-8306-164f02f1c99e",
+    "theme": "Freizeit",
+    "word_de": "der Beruf",
+    "word_uz": "ish"
+  },
+  {
+    "id": "56282ca1-eb7b-45c1-bf38-85e38e635b29",
+    "theme": "Freizeit",
+    "word_de": "das Foto",
+    "word_uz": "rasm"
+  },
+  {
+    "id": "77c34726-70bc-422d-8315-f648207c7a6f",
+    "theme": "Freizeit",
+    "word_de": "besonder-/besonders",
+    "word_uz": "maxsus"
+  },
+  {
+    "id": "affad2a2-1121-4e0a-8537-f92147902996",
+    "theme": "Freizeit",
+    "word_de": "fotografieren",
+    "word_uz": "suratga"
+  },
+  {
+    "id": "922c630a-44d5-4f3a-aa5b-da4a949f5aeb",
+    "theme": "Freizeit",
+    "word_de": "der Spaß (Sg.)",
+    "word_uz": "qiziqarli"
+  },
+  {
+    "id": "c0ae283e-a1c8-407d-9b77-2dcecd899db8",
+    "theme": "Freizeit",
+    "word_de": "das Sm artphone",
+    "word_uz": "smartfon"
+  },
+  {
+    "id": "d3586cd1-04cd-4863-bafa-7fc77136723b",
+    "theme": "Freizeit",
+    "word_de": "dumm",
+    "word_uz": "ahmoq"
+  },
+  {
+    "id": "449d18e5-a51f-4b7b-929b-edd5855c05fa",
+    "theme": "Freizeit",
+    "word_de": "oft",
+    "word_uz": "teztez"
+  },
+  {
+    "id": "dccfa2dc-03d7-4a59-879f-70b940fc0783",
+    "theme": "Freizeit",
+    "word_de": "meinen",
+    "word_uz": "anglatadi"
+  },
+  {
+    "id": "05b283d0-6bb1-4dd1-ba6f-e1f4c68ed424",
+    "theme": "Freizeit",
+    "word_de": "der Würfel",
+    "word_uz": "kub"
+  },
+  {
+    "id": "46551061-19c4-46a7-8bc2-3d9cc5e0226a",
+    "theme": "Freizeit",
+    "word_de": "das Spiel",
+    "word_uz": "oʻyin"
+  },
+  {
+    "id": "ba9bec99-f7a6-470e-bfc9-8e454bccd476",
+    "theme": "Freizeit",
+    "word_de": "leider",
+    "word_uz": "afsuski"
+  },
+  {
+    "id": "1672df75-1e0f-45d5-a056-3ea0a6676aac",
+    "theme": "Freizeit",
+    "word_de": "das Problem",
+    "word_uz": "muammo"
+  },
+  {
+    "id": "bada29fa-1da9-41d8-ad38-924539bbb68e",
+    "theme": "Freizeit",
+    "word_de": "immer",
+    "word_uz": "har"
+  },
+  {
+    "id": "c28ace15-a2d1-4dc1-9d1c-8126afc024b2",
+    "theme": "Freizeit",
+    "word_de": "vielleicht",
+    "word_uz": "balki"
+  },
+  {
+    "id": "85b5ee7c-ec8a-4022-9e46-1f8a5ef6dd25",
+    "theme": "Freizeit",
+    "word_de": "einfach",
+    "word_uz": "oddiygina"
+  },
+  {
+    "id": "8f562335-0cc9-497b-a61f-8176be7a3daf",
+    "theme": "Freizeit",
+    "word_de": "schnell",
+    "word_uz": "tez"
+  },
+  {
+    "id": "3989c0de-d5a6-4b79-9823-35d35f214c24",
+    "theme": "Kinder unda schule",
+    "word_de": "prima",
+    "word_uz": "yaxshi"
+  },
+  {
+    "id": "1e4ac3d5-4cd2-4801-8567-e4d93b1d5e2e",
+    "theme": "Kinder unda schule",
+    "word_de": "das Team",
+    "word_uz": "jamoa"
+  },
+  {
+    "id": "5b1abdc3-5386-450c-a250-1d168204e936",
+    "theme": "Kinder unda schule",
+    "word_de": "wecken",
+    "word_uz": "uygʻotmoq"
+  },
+  {
+    "id": "33c4befb-1a39-4f9c-980d-f92eae15dab7",
+    "theme": "Kinder unda schule",
+    "word_de": "das Frühstück",
+    "word_uz": "nonushta"
+  },
+  {
+    "id": "a88724df-9b0c-45c9-a59a-1e9f646cf995",
+    "theme": "Kinder unda schule",
+    "word_de": "fertig (sein)",
+    "word_uz": "tugatiladi"
+  },
+  {
+    "id": "60ac3288-5245-40c8-aba2-63526e03f5a8",
+    "theme": "Kinder unda schule",
+    "word_de": "los sein",
+    "word_uz": "boʻsh"
+  },
+  {
+    "id": "260d72fb-f24b-4c97-8c2f-bc5dd83fa93c",
+    "theme": "Kinder unda schule",
+    "word_de": "schreiben",
+    "word_uz": "yozmoq"
+  },
+  {
+    "id": "8b407763-c5fb-426a-ad12-8380155cc997",
+    "theme": "Kinder unda schule",
+    "word_de": "die Mathematik",
+    "word_uz": "matematik"
+  },
+  {
+    "id": "f90fe90e-b6d7-43e9-91d3-ca8cead2f35a",
+    "theme": "Kinder unda schule",
+    "word_de": "der Test pünktlich",
+    "word_uz": "Test vaqti"
+  },
+  {
+    "id": "4022c9fa-9c75-4665-b5fc-0cbbfddb16d9",
+    "theme": "Kinder unda schule",
+    "word_de": "auf keinen/jeden Fall",
+    "word_uz": "har qanday holatda"
+  },
+  {
+    "id": "b0cc1f4d-d43d-4335-819c-1cecd9e8c34f",
+    "theme": "Kinder unda schule",
+    "word_de": "schmecken",
+    "word_uz": "tami"
+  },
+  {
+    "id": "0e5eb3ee-aba8-486a-b41d-74987e54bc49",
+    "theme": "Kinder unda schule",
+    "word_de": "nach Hause",
+    "word_uz": "uy"
+  },
+  {
+    "id": "89db75ec-8676-4a12-a7bf-22fa2b1402f2",
+    "theme": "Kinder unda schule",
+    "word_de": "die Schule",
+    "word_uz": "maktab"
+  },
+  {
+    "id": "c10701bf-4b90-4a15-bcd6-9c7e3095bf62",
+    "theme": "Kinder unda schule",
+    "word_de": "können",
+    "word_uz": "mumkin"
+  },
+  {
+    "id": "f5b28f1a-9c9e-4d61-b6b7-78765c6db5f4",
+    "theme": "Kinder unda schule",
+    "word_de": "krank",
+    "word_uz": "kasal"
+  },
+  {
+    "id": "3efa2144-7211-4e04-b243-b549e5a814e9",
+    "theme": "Kinder unda schule",
+    "word_de": "der Arzt",
+    "word_uz": "shifokor"
+  },
+  {
+    "id": "16422fdf-a9df-4b29-8d98-64f241a21d09",
+    "theme": "Kinder unda schule",
+    "word_de": " die Ärztin",
+    "word_uz": "shifokor"
+  },
+  {
+    "id": "83947ff0-9198-4b5d-b28e-1104d08210c0",
+    "theme": "Kinder unda schule",
+    "word_de": " backen",
+    "word_uz": "pishirmoq"
+  },
+  {
+    "id": "e0459231-8b59-4b28-a4cc-77144e90a425",
+    "theme": "Kinder unda schule",
+    "word_de": "singen",
+    "word_uz": "kuylamoq"
+  },
+  {
+    "id": "e5403fa7-a4da-4e56-9323-be0a1c0abb3e",
+    "theme": "Kinder unda schule",
+    "word_de": "reiten",
+    "word_uz": "minmoq"
+  },
+  {
+    "id": "eca4456f-d8bf-4b49-a48b-21125b1e0912",
+    "theme": "Kinder unda schule",
+    "word_de": "das Klavier",
+    "word_uz": "pianina"
+  },
+  {
+    "id": "5f180f65-dd53-4cd5-be61-fa13c75f5391",
+    "theme": "Kinder unda schule",
+    "word_de": "malen",
+    "word_uz": "boʻyash"
+  },
+  {
+    "id": "84cb9bef-4d11-4b21-bf7b-5a626b4c1215",
+    "theme": "Kinder unda schule",
+    "word_de": "der Ski",
+    "word_uz": "changʻi"
+  },
+  {
+    "id": "f178edf1-7e49-4b27-a69e-07145da35a31",
+    "theme": "Kinder unda schule",
+    "word_de": "das Tennis (spielen)",
+    "word_uz": "tennis"
+  },
+  {
+    "id": "0708186d-5a69-4b3c-ac16-a48f1655c3a4",
+    "theme": "Kinder unda schule",
+    "word_de": "wollen",
+    "word_uz": "istayman"
+  },
+  {
+    "id": "407ee540-73ce-491b-91b6-b3a3f902cc92",
+    "theme": "Kinder unda schule",
+    "word_de": "endlich",
+    "word_uz": "nihoyat"
+  },
+  {
+    "id": "64ade64c-20c0-49f4-afba-cf7fdf8ed0e1",
+    "theme": "Kinder unda schule",
+    "word_de": "das Lied",
+    "word_uz": "qoʻshiq"
+  },
+  {
+    "id": "6fb002ed-57ff-45ff-bcb7-de32423f3b51",
+    "theme": "Kinder unda schule",
+    "word_de": "üben",
+    "word_uz": "mashq"
+  },
+  {
+    "id": "e54440c6-2857-4986-b128-8bbef2881a91",
+    "theme": "Kinder unda schule",
+    "word_de": "der Text",
+    "word_uz": "matn"
+  },
+  {
+    "id": "4cec3b7f-03bd-4114-acf2-f555689643e2",
+    "theme": "Kinder unda schule",
+    "word_de": "die Übung",
+    "word_uz": "mashq"
+  },
+  {
+    "id": "19428115-7115-4187-b42e-dad4aa701164",
+    "theme": "Kinder unda schule",
+    "word_de": "der Brief",
+    "word_uz": "xat"
+  },
+  {
+    "id": "8938b696-b53d-4285-a101-7fe618e34cd3",
+    "theme": "Kinder unda schule",
+    "word_de": "das Diktat",
+    "word_uz": "diktant"
+  },
+  {
+    "id": "46912c69-f2a9-47f1-8fcd-a8bd0db47f2c",
+    "theme": "Kinder unda schule",
+    "word_de": "das Buch",
+    "word_uz": "kitob"
+  },
+  {
+    "id": "eadb78c8-f877-4eb4-803e-2948f08d2055",
+    "theme": "Kinder unda schule",
+    "word_de": "schade",
+    "word_uz": "afsus"
+  },
+  {
+    "id": "b281f5b7-663b-4155-96de-468f04b730ab",
+    "theme": "Kinder unda schule",
+    "word_de": "der Kilom eter",
+    "word_uz": "kilometr"
+  },
+  {
+    "id": "2fb9fe6c-eb7d-41fa-9994-b3075ca1f137",
+    "theme": "Kinder unda schule",
+    "word_de": "die Kommunikation",
+    "word_uz": "aloqa"
+  },
+  {
+    "id": "c6a75804-9661-44d3-93cb-821ff881a057",
+    "theme": "Kinder unda schule",
+    "word_de": "lieb",
+    "word_uz": "azizim"
+  },
+  {
+    "id": "b662658b-0911-4e4f-a91a-fe3a1467c907",
+    "theme": "Kinder unda schule",
+    "word_de": "das Mädchen",
+    "word_uz": "qiz"
+  },
+  {
+    "id": "77b448fc-5ea9-40a9-84f9-93fe80569c74",
+    "theme": "Kinder unda schule",
+    "word_de": "der Junge",
+    "word_uz": "yosh"
+  },
+  {
+    "id": "58dd8262-afee-435c-a196-6442731d0298",
+    "theme": "Kinder unda schule",
+    "word_de": "die Klasse",
+    "word_uz": "sinf"
+  },
+  {
+    "id": "5f80efd3-ea0f-4f97-ac19-4066093bbd29",
+    "theme": "Kinder unda schule",
+    "word_de": "das Schwimm bad",
+    "word_uz": "baseyn"
+  },
+  {
+    "id": "305a7a4c-384e-4140-b6a0-10e42e96d1ad",
+    "theme": "Kinder unda schule",
+    "word_de": "der Eintritt (Sg.)",
+    "word_uz": "kirish"
+  },
+  {
+    "id": "92a9acb3-97b4-4f8a-a8b5-a1f693d58e1d",
+    "theme": "Kinder unda schule",
+    "word_de": "losfahren",
+    "word_uz": "haydash"
+  },
+  {
+    "id": "5d4b7efd-bb37-40af-b67e-e22b7cc03a0f",
+    "theme": "Kinder unda schule",
+    "word_de": "zurückkommen",
+    "word_uz": "qaytish"
+  },
+  {
+    "id": "336a6df4-c86e-4b02-94c8-d55ba70d608c",
+    "theme": "Kinder unda schule",
+    "word_de": "die Grundschule",
+    "word_uz": "boshlangʻich"
+  },
+  {
+    "id": "9fbaad93-c3ea-4ef7-98a9-7b3c6cb5bc80",
+    "theme": "Kinder unda schule",
+    "word_de": "mitkommen",
+    "word_uz": "birga"
+  },
+  {
+    "id": "84414dd7-ea7e-4b14-aabd-d90df7e7e5da",
+    "theme": "Kinder unda schule",
+    "word_de": "der Unterricht (Sg)",
+    "word_uz": "dars"
+  },
+  {
+    "id": "bf3d5fcb-665d-40c0-a2b8-52340f15fffe",
+    "theme": "Kinder unda schule",
+    "word_de": "leidtun",
+    "word_uz": "hafa qilmoq"
+  }
+]

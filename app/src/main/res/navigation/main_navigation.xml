@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="uz.maxtac.glossary.fragment.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_detailsFragment"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_saves"
+        android:name="uz.maxtac.glossary.fragment.ThemesFragment"
+        android:label="fragment_saves"
+        tools:layout="@layout/fragment_themes" >
+        <action
+            android:id="@+id/action_nav_saves_to_wordFragment"
+            app:destination="@id/wordFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="uz.maxtac.glossary.fragment.DetailsFragment"
+        android:label="fragment_details"
+        tools:layout="@layout/fragment_details" >
+        <argument
+            android:name="word_id"
+            app:argType="string" />
+        <argument
+            android:name="word"
+            app:argType="uz.maxtac.glossary.model.Word" />
+    </fragment>
+    <fragment
+        android:id="@+id/wordFragment"
+        android:name="uz.maxtac.glossary.fragment.WordFragment"
+        android:label="fragment_word"
+        tools:layout="@layout/fragment_word" >
+        <action
+            android:id="@+id/action_wordFragment_to_detailsFragment"
+            app:destination="@id/detailsFragment" />
+        <argument
+            android:name="theme"
+            app:argType="string" />
+    </fragment>
+</navigation>
